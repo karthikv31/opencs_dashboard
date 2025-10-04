@@ -1,0 +1,2528 @@
+{
+  "FunCoder 3.0": {
+    "1": [
+      {
+        "title": "Unboxing Computer",
+        "Descriptive Name": "Understanding Computer Parts",
+        "Coverage": "(1)Computer and its uses(2)Monitor(3)Mouse(4)Computers parts and their functions (5)Keyboard(6)CPU",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Click, Click, Click!",
+        "Descriptive Name": "Introduction to Mouse",
+        "Coverage": "1. WHAT IS A MOUSE?\n2. PARTS OF A MOUSE\n3. THE MOUSE POINTER\n4. LEARNING TO USE THE MOUSE\n5. HOW TO TAKE CARE OF YOUR MOUSE",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Touch to type",
+        "Descriptive Name": "working with the keyboard",
+        "Coverage": "(1)Alphabet Keys and Caps Lock Key(2)Number Keys(3)Backspace and spacebar Keys(4)Enter Key",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Paint without Paint",
+        "Descriptive Name": "Basics of Tux Paint",
+        "Coverage": "(1)TUX paint (2)Lines,Shapes,Fill(3)Paint,Erase(4)Project: Draw a  smiley",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Lets Sequence",
+        "Descriptive Name": "Baby steps to programming",
+        "Coverage": "(1)Arranging jumbled steps in order(2)Instructions(3)Sequencing(4)Programs\n5) Project :Guide the Tux",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "Done"
+      },
+      {
+        "title": "Can Computers Fly?",
+        "Descriptive Name": "Begin with AI",
+        "Coverage": "(1)Machines around us 2) Artificial Intelligence 3) Artificial Intelligence in our daily lives",
+        "Domain": "Artificial Intelligence & Datascience",
+        "Status": "Done"
+      }
+    ],
+    "2": [
+      {
+        "title": "Fastest fingers first",
+        "Descriptive Name": "Special Keys on the Keyboard",
+        "Coverage": "(1) Creating a Text Document (2) Best Typing Practices (3) Functions of Various Keys",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Cut, Copy, Paste",
+        "Descriptive Name": "Mouse actions",
+        "Coverage": "(1) Selecting Text (2) Moving Text Using Cut-Paste (3) Project: My Favorite Food (4) Duplicating Text Using Copy-Paste (5) Reversing the Last Change Using Undo",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Paint Your Thoughts",
+        "Descriptive Name": "Introduction to MS Paint",
+        "Coverage": "(1) Introduction to MS Paint (2) Creating a Drawing in MS Paint (3) Tools of MS Paint (4) Project: Drawing a Birthday Cake",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Word to save",
+        "Descriptive Name": "Introduction to Ms-Word",
+        "Coverage": "(1) Word Processor (2) Interface (3) Entering Text (4) Saving the Document (5) Editing an Existing File (6) Save As (7) Project: Birthday Invitation",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Think Stepwise",
+        "Descriptive Name": "Introduction to Algorithms",
+        "Coverage": "(1) Instructions for Tasks (2) Program (3) Algorithm (4) Project: Encoding Game with Tux",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "Done"
+      },
+      {
+        "title": "Can Computers Draw?",
+        "Descriptive Name": "Exploring the World of AI",
+        "Coverage": "(1) Artificial Intelligence (AI) (2) Drawing Using AI (3) Project: Drawing a Hat (4) Uses of AI: Virtual Assistants, Image Recognition (5) Machines with AI",
+        "Domain": "Artificial Intelligence",
+        "Status": "Done"
+      }
+    ],
+    "3": [
+      {
+        "title": "Computer In and Out",
+        "Descriptive Name": "Input and Output Devices",
+        "Coverage": "IPO Cycle\nInput Devices\nOutput Devices\nCPU",
+        "Domain": "Digital Literacy",
+        "Status": "nan"
+      },
+      {
+        "title": "From Power On to Play",
+        "Descriptive Name": "Exploring OS",
+        "Coverage": "1)Operating System (OS)\n\n2)Graphical user interface\n\n3)Desktop Environment\n\n4)Basic desktop operations",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Paint your world",
+        "Descriptive Name": "Sketch with Ms-paint",
+        "Coverage": "1)Introduction to MS Paint\n2)MS Paint Tools\n3)Drawing and Editing with MS Paint\n4)Project: Simple Scenery",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Word Power Made Simple",
+        "Descriptive Name": "Working with Ms-word",
+        "Coverage": "1)Creating a document\n2)Formatting text\n3) Spelling & Grammar corrections\n3)Text Spacing\n4) Saving and Printing the document\n5)Project: Teacher's day Invitation",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "ABC of Scratch",
+        "Descriptive Name": "Introduction  to Scratch",
+        "Coverage": "1)Block Coding\n2)Components of Scratch platform\n3)Creating, Saving and sharing the project\n4) Project: Marching Cat",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "Done"
+      },
+      {
+        "title": "Can Robots Think?",
+        "Descriptive Name": "Exploring Intelligent Machines",
+        "Coverage": "1)Computing machines\n2)Artificial Intelligence (AI)\n3)Story writing with AI\n4)Machine Learning\n5)Creating images using AI \n6)Stages of AI",
+        "Domain": "Artificial Intelligence",
+        "Status": "Done"
+      }
+    ],
+    "4": [
+      {
+        "title": "Inside the Brain of A Computer",
+        "Descriptive Name": "Exploring cpu and its parts",
+        "Coverage": "1)IPO Cycle(2)Input devices(3)Process(4)CPU(5)Output devices",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "The Friendly Face of Computers",
+        "Descriptive Name": "Working with OS",
+        "Coverage": "1)Graphical User Interface\n\n2)Taskbar\n\n3)Windows Desktop\n\n4)Shortcut menu",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "WOW with Word",
+        "Descriptive Name": "Advanced features of MS Word",
+        "Coverage": "1) Inserting Objects\n2) Tables in Word\n3)WordArt\n4) Search and Replace\n5)Thesaurus\n6)Project: Happy Independence Day",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "Power Up with PowerPoint",
+        "Descriptive Name": "Basics of PowerPoint",
+        "Coverage": "1)Creating a presentation\n2)Inserting Media and Smartart\n3)Presentation views 4)Adding Theme and Text5)Adding Animation & Transition Effect(6)Project: My role model",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Repeat the Loops Forever",
+        "Descriptive Name": "Simple animations Using Loops",
+        "Coverage": "1)Repetitions in real life\n2) Loops in Programming\n3)Repeat block\n4)Forever block\n5)Project: Dance Party",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "Done"
+      },
+      {
+        "title": "Can a Robot Pass an Exam?",
+        "Descriptive Name": "Learning domains of AI",
+        "Coverage": "1)Artificial Intelligence and It's Domains\n2)Data Science\n3)Natural Language Processing\n4)Computer Vision\n5)Project: Read my mind",
+        "Domain": "Artificial Intelligence",
+        "Status": "Done"
+      },
+      {
+        "title": "BRIDGE IT",
+        "Descriptive Name": "Introduction to Programming and Scratch",
+        "Coverage": "nan",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "nan"
+      }
+    ],
+    "5": [
+      {
+        "title": "Soul of the Computer",
+        "Descriptive Name": "All about softwares",
+        "Coverage": "1)Types of Softwares\n2)System Software\n3) Application Software\n4)Working with Operating System",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Super Slides Made Easy",
+        "Descriptive Name": "Presentation Software - Special Effects",
+        "Coverage": "1)Design Templates\n2) Font Styling,Formatting and Alignment\n3) Inserting WordArt and Objects\n4) Inserting List\n5) Project: My Favourite Super Hero",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "Enter and Excel",
+        "Descriptive Name": "Working with MS-Excel",
+        "Coverage": "1)Creating a spreadsheet\n\n2)Formatting the data\n\n3)Visualizing the data\n4)Entering text, numbers & formulas\n5)Sorting the data  (6)Project: Digital Marksheets",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Who owns the internet",
+        "Descriptive Name": "working of internet",
+        "Coverage": "1)Network and its advantages\n2)History of the internet\n3)Types of networks\n4)Working on the internet",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "Let's Trigger!",
+        "Descriptive Name": "Funny games with events & conditionals",
+        "Coverage": "1)Conditional statements\n\n2)Events\n\n3)If-then and If-then-else\n\n4)Project: Ball Bouncer",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "Done"
+      },
+      {
+        "title": "Teach a Machine",
+        "Descriptive Name": "Introduction to Machine learning",
+        "Coverage": "1)Machine Learning (ML)\n2)Steps to make a ML model\n3)Google Teachable Machine\n4)Project: Emotional Cat",
+        "Domain": "Artificial Intelligence",
+        "Status": "WIP"
+      }
+    ],
+    "6": [
+      {
+        "title": "Counting to Computing!",
+        "Descriptive Name": "Evolution of Computers",
+        "Coverage": "History of Computers\nCharacteristics and Limitations\nGenerations of Computers\nEmerging Technologies",
+        "Domain": "Digital Literacy",
+        "Status": "nan"
+      },
+      {
+        "title": "Excel to excel",
+        "Descriptive Name": "Advanced features of MS Excel",
+        "Coverage": "1)Select, copy, & move data\n2)Change cell dimensions (3)Inserting rows & columns\n4)Formatting, autofill & formulas (5)Charts & graphs\n6)Project: Smart school elections",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "Connecting People",
+        "Descriptive Name": "Internet Services",
+        "Coverage": "The Internet\nDifferent Internet Services\nWays to  Connect to the Internet\nNetiquettes while communicating online",
+        "Domain": "Digital Literacy",
+        "Status": "nan"
+      },
+      {
+        "title": "Think Like coders",
+        "Descriptive Name": "Algorithms  and flowcharts",
+        "Coverage": "1)Introduction to programming\n2)Algorithms and algorithmic thinking\n3)Pseudocode & Flowcharts\n4)Project 1: How to make a cup of coffee\n5)Project 2: Is it a leap year\n6)Block coding with MakeCode",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Make code,with Makecode",
+        "Descriptive Name": "Programming with Makecode",
+        "Coverage": "1)Print command\n2)Project 1: Hello World!\n3)Loops\n4)Project 2: Music Player\n5)Variables, Conditionals, and Operators\n6)Project 3: Addition of numbers\n7)Project 4: Dynamic background\n8)Project 5: The remainder problem",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "From a Blank page, to a web page!",
+        "Descriptive Name": "Introduction to HTML",
+        "Coverage": "1)Introduction to HTML\n2)HTML tags\n3)Project: My Bio\n4)Types of tags",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Can computers see?",
+        "Descriptive Name": "Exploring computer vision",
+        "Coverage": "1)Computer vision (CV)\n2)Tasks of Computer Vision\n3)Understanding images\n4)Applications of Computer Vision",
+        "Domain": "Artificial Intelligence",
+        "Status": "WIP"
+      }
+    ],
+    "7": [
+      {
+        "title": "The Power of Word",
+        "Descriptive Name": "Word Processor - Mail Merge",
+        "Coverage": "Mail merge & advantages\n\nFeature for varying addresses\n\nComponents – main document, data source, merged document\n\nSteps in process\n\nPrinting merged letters",
+        "Domain": "Digital Literacy",
+        "Status": "nan"
+      },
+      {
+        "title": "Create with krita",
+        "Descriptive Name": "Simple sketch using krita",
+        "Coverage": "* Digital painting\n * Getting started with Krita\n * Types of layers\n * Toolbox\n * Brushes, Presets and Stamps\n * Project: Starry Night",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "The language of the universe",
+        "Descriptive Name": "Learning number system",
+        "Coverage": "* Why numbers?\n * Numeral system\n * Decimal system\n * Binary system\n * Octal system\n * Hexadecimal system",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "Hatching the python",
+        "Descriptive Name": "Basics of python",
+        "Coverage": "Getting started with Python\n * Print command\n * Interactive mode and Script mode\n * Commenting in Python",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Very able variables",
+        "Descriptive Name": "Understanding variables in python",
+        "Coverage": "Variables and Constants\n * Variables in Python\n * Creating variables\n * Data types\n * Operators\n * Project: Result Generator",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Make a Wiki",
+        "Descriptive Name": "Understanding HTML",
+        "Coverage": "* Web Pages and Websites\n * HTML Tags\n * HTML Attributes\n * Project: MS Dhoni",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Power of AI",
+        "Descriptive Name": "Deep dive into AI",
+        "Coverage": "* Artificial Intelligence (AI)\n * Achieving AI: ML & DL\n * Data science\n * Natural Language Processing\n * Computer Vision\n * AI for SDGs",
+        "Domain": "Artificial Intelligence",
+        "Status": "WIP"
+      }
+    ],
+    "8": [
+      {
+        "title": "From Numbers to Meaning",
+        "Descriptive Name": "Reading the Data With MS Excel",
+        "Coverage": "Rows, columns, and cells\n\nData types – text, number, date\n\nWorksheets and workbooks\n\nReading data tables\n\nSorting and filtering",
+        "Domain": "Digital Literacy",
+        "Status": "nan"
+      },
+      {
+        "title": "Re-edit your favourite video",
+        "Descriptive Name": "Editing the video with openshot",
+        "Coverage": "* Why video editing\n * Exploring OpenShot\n * Getting started with OpenShot\n * Project: Birthday party invitation",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "How does the Net Works",
+        "Descriptive Name": "Basics of Internet and Networking",
+        "Coverage": "* Computer networks\n * Types of computer networks\n * The Internet\n * Working of websites\n * Network topology",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "Charming the Python",
+        "Descriptive Name": "Learning Python",
+        "Coverage": "nan",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Stylish websites, made simple",
+        "Descriptive Name": "Learning HTML & CSS",
+        "Coverage": "* HTML tags\n * HTMLattributes\n * CSS (Inline, Internal, and External)\n * Project: Snowy Owl",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Making of AI",
+        "Descriptive Name": "AI Project Cycle and Ethics",
+        "Coverage": "AI Project Cycle\nStages of AI Project Cycle\n4Ws Problem Canvas\nAI Ethics",
+        "Domain": "Artificial Intelligence",
+        "Status": "WIP"
+      }
+    ]
+  },
+  "HappyCoder3.0": {
+    "1": [
+      {
+        "title": "Meet My Computer",
+        "Descriptive Name": "Introduction to Computers",
+        "Coverage": "(1)Natural and Man-made things(2)computers(3)Machines(4)Types of computer",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Unboxing Computer",
+        "Descriptive Name": "Understanding Computer Parts",
+        "Coverage": "(1)Computer and its uses(2)Monitor(3)Mouse(4)Computers parts and their functions (5)Keyboard(6)CPU",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Click, Click, Click!",
+        "Descriptive Name": "Introduction to Mouse",
+        "Coverage": "1. WHAT IS A MOUSE?\n2. PARTS OF A MOUSE\n3. THE MOUSE POINTER\n4. LEARNING TO USE THE MOUSE\n5. HOW TO TAKE CARE OF YOUR MOUSE",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Touch to type",
+        "Descriptive Name": "working with the keyboard",
+        "Coverage": "(1)Alphabet Keys and Caps Lock Key(2)Number Keys(3)Backspace and spacebar Keys(4)Enter Key",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Paint without Paint",
+        "Descriptive Name": "Basics of Tux Paint",
+        "Coverage": "(1)TUX paint (2)Lines,Shapes,Fill(3)Paint,Erase(4)Project: Draw a  smiley",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Connect and code",
+        "Descriptive Name": "Introduction to Scratch Jr",
+        "Coverage": "(1)Machines (2)Programming (3)Scratch Jr(4)Scratch Jr Interface(5)Project:Greetings!",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "Done"
+      },
+      {
+        "title": "Can Computers Fly?",
+        "Descriptive Name": "Begin with AI",
+        "Coverage": "(1)Machines around us 2) Artificial Intelligence 3) Artificial Intelligence in our daily lives",
+        "Domain": "Artificial Intelligence",
+        "Status": "Done"
+      }
+    ],
+    "2": [
+      {
+        "title": "Know your Computer",
+        "Descriptive Name": "Computer and its  devices",
+        "Coverage": "(1) Computer (2) Types of Computers (3) Input (4) Output (5) Advantages of a Computer (6) Disadvantages of a Computer",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Fastest fingers first",
+        "Descriptive Name": "Special Keys on the Keyboard",
+        "Coverage": "(1) Creating a Text Document (2) Best Typing Practices (3) Functions of Various Keys",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Cut, Copy, Paste",
+        "Descriptive Name": "Mouse actions",
+        "Coverage": "(1) Selecting Text (2) Moving Text Using Cut-Paste (3) Project: My Favorite Food (4) Duplicating Text Using Copy-Paste (5) Reversing the Last Change Using Undo",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Paint Your Thoughts",
+        "Descriptive Name": "Introduction to MS Paint",
+        "Coverage": "(1) Introduction to MS Paint (2) Creating a Drawing in MS Paint (3) Tools of MS Paint (4) Project: Drawing a Birthday Cake",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Word to save",
+        "Descriptive Name": "Introduction to Ms-Word",
+        "Coverage": "(1) Word Processor (2) Interface (3) Entering Text (4) Saving the Document (5) Editing an Existing File (6) Save As (7) Project: Birthday Invitation",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Code the blocks!",
+        "Descriptive Name": "Programming with Scratch Jr",
+        "Coverage": "(1) Machines (2) Programming (3) ScratchJr (4) Interface (5) Programming Blocks (6) Project: Many Funny Animals",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "Done"
+      },
+      {
+        "title": "Can Computers Draw?",
+        "Descriptive Name": "Exploring the World of AI",
+        "Coverage": "(1) Artificial Intelligence (AI) (2) Drawing Using AI (3) Project: Drawing a Hat (4) Uses of AI: Virtual Assistants, Image Recognition (5) Machines with AI",
+        "Domain": "Artificial Intelligence",
+        "Status": "Done"
+      }
+    ],
+    "3": [
+      {
+        "title": "From Power On to Play",
+        "Descriptive Name": "Exploring OS",
+        "Coverage": "1)Operating System (OS)\n\n2)Graphical user interface\n\n3)Desktop Environment\n\n4)Basic desktop operations",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Paint your world",
+        "Descriptive Name": "Sketch with Ms-paint",
+        "Coverage": "1)Introduction to MS Paint\n2)MS Paint Tools\n3)Drawing and Editing with MS Paint\n4)Project: Simple Scenery",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Word Power Made Simple",
+        "Descriptive Name": "Working with Ms-word",
+        "Coverage": "1)Creating a document\n2)Formatting text\n3) Spelling & Grammar corrections\n3)Text Spacing\n4) Saving and Printing the document\n5)Project: Teacher's day Invitation",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Network of Networks",
+        "Descriptive Name": "Introduction to Internet",
+        "Coverage": "1)Internet and related terminologies\n\n2)Online safety\n\n3)Advantages and Disadvantages of Internet\n\n4)Responsibilities of a digital citizen",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "ABC of Scratch",
+        "Descriptive Name": "Introduction  to Scratch",
+        "Coverage": "1)Block Coding\n2)Components of Scratch platform\n3)Creating, Saving and sharing the project\n4) Project: Marching Cat",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "Done"
+      },
+      {
+        "title": "Repeat the Loops Forever",
+        "Descriptive Name": "Simple animations Using Loops",
+        "Coverage": "1)Repetitions in real life\n2) Loops in Programming\n3)Repeat block\n4)Forever block\n5)Project: Dance Party",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "Done"
+      },
+      {
+        "title": "Can Robots Think?",
+        "Descriptive Name": "Exploring Intelligent Machines",
+        "Coverage": "1)Computing machines\n2)Artificial Intelligence (AI)\n3)Story writing with AI\n4)Machine Learning\n5)Creating images using AI \n6)Stages of AI",
+        "Domain": "Artificial Intelligence",
+        "Status": "Done"
+      },
+      {
+        "title": "First Digital Key",
+        "Descriptive Name": "All About Passwords",
+        "Coverage": "1)Password\n2)Why passwords?\n3)How to Make a Password?\n4)Advanced Technologies for Security",
+        "Domain": "Digital Citizenship and Cyber Security",
+        "Status": "Done"
+      }
+    ],
+    "4": [
+      {
+        "title": "Inside the Brain of A Computer",
+        "Descriptive Name": "Exploring cpu and its parts",
+        "Coverage": "1)IPO Cycle(2)Input devices(3)Process(4)CPU(5)Output devices",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "The Friendly Face of Computers",
+        "Descriptive Name": "Working with OS",
+        "Coverage": "1)Graphical User Interface\n\n2)Taskbar\n\n3)Windows Desktop\n\n4)Shortcut menu",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "WOW with Word",
+        "Descriptive Name": "Advanced features of MS Word",
+        "Coverage": "1) Inserting Objects\n2) Tables in Word\n3)WordArt\n4) Search and Replace\n5)Thesaurus\n6)Project: Happy Independance Day",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "Power Up with PowerPoint",
+        "Descriptive Name": "Basics of PowerPoint",
+        "Coverage": "1)Creating a presentation\n2)Inserting Media and Smartart\n3)Presentation views 4)Adding Theme and Text5)Adding Animation & Transition Effect(6)Project: My role model",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Lucid Loops",
+        "Descriptive Name": "Drawing Shapes and Patterns with Loops",
+        "Coverage": "1)Loops in daily life.\n2)Project 1: Drawing Basic Shapes\n3)Nested loops\n4)Repeat, Forever and Pen blocks\n5)Project 2: Drawing Simple Patterns",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "Done"
+      },
+      {
+        "title": "Creative Conditionals",
+        "Descriptive Name": "Making Decisions with Conditional Logic",
+        "Coverage": "1)Conditionals in real life\n2)If-then & if-then-else conditionals\n3)Project 1: Monkey apple animation\n4)Project 2: Cat mouse chase animation\n5)Repeat Until\n6)Project 3: Dancing name animation",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "Done"
+      },
+      {
+        "title": "Can a Robot Pass an Exam?",
+        "Descriptive Name": "Learning domains of AI",
+        "Coverage": "1)Artificial Intelligence and It's Domains\n2)Data Science\n3)Natural Language Processing\n4)Computer Vision\n5)Project: Read my mind",
+        "Domain": "Artificial Intelligence",
+        "Status": "Done"
+      },
+      {
+        "title": "Digital citizenship superhero",
+        "Descriptive Name": "Understanding digital citizenship",
+        "Coverage": "1)Digital citizenship\n2)What to share on the internet?\n3)Digital citizenship superhero\n3)Rights and responsibilities of a digital citizen\n4)Cyberbullying",
+        "Domain": "Digital Citizenship and Cyber Security",
+        "Status": "Done"
+      }
+    ],
+    "5": [
+      {
+        "title": "Soul of the Computer",
+        "Descriptive Name": "All about softwares",
+        "Coverage": "1)Types of Softwares\n2)System Software\n3) Application Software\n4)Working with Operating System",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Super Slides Made Easy",
+        "Descriptive Name": "Presentation Software - Special Effects",
+        "Coverage": "1)Design Templates\n2) Font Styling,Formatting and Alignment\n3) Inserting WordArt and Objects\n4) Inserting List\n5) Project: My Favourite Super Hero",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "Enter and Excel",
+        "Descriptive Name": "Working with MS-Excel",
+        "Coverage": "1)Creating a spreadsheet\n\n2)Formatting the data\n\n3)Visualizing the data\n4)Entering text, numbers & formulas\n5)Sorting the data  (6)Project: Digital Marksheets",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Who owns the internet",
+        "Descriptive Name": "working of internet",
+        "Coverage": "1)Network and its advantages\n2)History of the internet\n3)Types of networks\n4)Working on the internet",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "Variable World",
+        "Descriptive Name": "Understanding variables in coding",
+        "Coverage": "1)Variables & Constants\n2)Variable initialization and updation\n3) Arithmetic Operators \n4)Creating new variables\n5)Project 1: Balloon Popper Game\n6)Project 2: Mathematical Monkey",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Curious Conditionals",
+        "Descriptive Name": "Deep diving to conditionals",
+        "Coverage": "1)Conditional statements\n2)Project 1: Hungry Parrot\n3)Project 2: Lucky Guess\n4)If-then & If-then-else conditional\n5)Relational operators\n6)Repeat Until",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Teach a Machine",
+        "Descriptive Name": "Introduction to Machine learning",
+        "Coverage": "1)Machine Learning (ML)\n2)Steps to make a ML model\n3)Google Teachable Machine\n4)Project: Emotional Cat",
+        "Domain": "Artificial Intelligence",
+        "Status": "WIP"
+      }
+    ],
+    "6": [
+      {
+        "title": "Excel to Excel",
+        "Descriptive Name": "Advanced features of MS Excel",
+        "Coverage": "1)Select, copy, & move data\n2)Change cell dimensions (3)Inserting rows & columns\n4)Formatting, autofill & formulas (5)Charts & graphs\n6)Project: Smart school elections",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "Beyond the Reality",
+        "Descriptive Name": "Introduction to AR and VR",
+        "Coverage": "1)Immersive Technology\n2)Augmented Reality (AR)\n3)Virtual Reality (VR)(4)Mixed Reality\n(5)Metaverse",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "Think Like coders",
+        "Descriptive Name": "Algorithms  and flowcharts",
+        "Coverage": "1)Introduction to programming\n2)Algorithms and algorithmic thinking\n3)Pseudocode & Flowcharts\n4)Project 1: How to make a cup of coffee\n5)Project 2: Is it a leap year\n6)Block coding with MakeCode",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Make code,with Makecode",
+        "Descriptive Name": "Programming with Makecode",
+        "Coverage": "1)Print command\n2)Project 1: Hello World!\n3)Loops\n4)Project 2: Music Player\n5)Variables, Conditionals, and Operators\n6)Project 3: Addition of numbers\n7)Project 4: Dynamic background\n8)Project 5: The remainder problem",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Meet the python",
+        "Descriptive Name": "Introduction to python",
+        "Coverage": "1)Introduction to Python\n2)Getting started with Python\n3)Print\n4)Variables\n5)Data types",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "From a Blank page, to a web page!",
+        "Descriptive Name": "Introduction to HTML",
+        "Coverage": "1)Introduction to HTML\n2)HTML tags\n3)Project: My Bio\n4)Types of tags",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Can computers see?",
+        "Descriptive Name": "Exploring computer vision",
+        "Coverage": "1)Computer vision (CV)\n2)Tasks of Computer Vision\n3)Understanding images\n4)Applications of Computer Vision",
+        "Domain": "Artificial Intelligence",
+        "Status": "WIP"
+      },
+      {
+        "title": "Beware of Black- Hats",
+        "Descriptive Name": "Understanding digital safety",
+        "Coverage": "1)Identity theft\n2)Password theft\n3)Phishing\n4)Malware attack\n5)Ransomware attack\n6)Preventing cyber attacks",
+        "Domain": "Digital Citizenship and Cyber Security",
+        "Status": "WIP"
+      }
+    ],
+    "7": [
+      {
+        "title": "Create with krita",
+        "Descriptive Name": "Simple sketch using krita",
+        "Coverage": "* Digital painting\n * Getting started with Krita\n * Types of layers\n * Toolbox\n * Brushes, Presets and Stamps\n * Project: Starry Night",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "The language of the universe",
+        "Descriptive Name": "Learning number system",
+        "Coverage": "* Why numbers?\n * Numeral system\n * Decimal system\n * Binary system\n * Octal system\n * Hexadecimal system",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "Hatching the python",
+        "Descriptive Name": "Basics of python",
+        "Coverage": "Getting started with Python\n * Print command\n * Interactive mode and Script mode\n * Commenting in Python",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Very able variables",
+        "Descriptive Name": "Understanding variables in python",
+        "Coverage": "Variables and Constants\n * Variables in Python\n * Creating variables\n * Data types\n * Operators\n * Project: Result Generator",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "If you think For a While",
+        "Descriptive Name": "Loops and conditionals in python",
+        "Coverage": "* Conditional statements\n * If and If-else statements\n * Loops\n * For and While loops\n * Project 1: Multiplication table\n * Project 2: Guess who am I?",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Make a Wiki",
+        "Descriptive Name": "Understanding HTML",
+        "Coverage": "* Webpages and Websites\n * HTML Tags\n * HTML Attributes\n * Project: MS Dhoni",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Power of AI",
+        "Descriptive Name": "Deep dive into AI",
+        "Coverage": "* Artificial Intelligence (AI)\n * Achieving AI: ML & DL\n * Data science\n * Natural Language Processing\n * Computer Vision\n * AI for SDGs",
+        "Domain": "Artificial Intelligence",
+        "Status": "WIP"
+      },
+      {
+        "title": "Creating a positive Digital Footprint",
+        "Descriptive Name": "Responsible Online Behaviour",
+        "Coverage": "* Your online identity\n * Going anonymous\n * Digital footprint\n * Advantages of positive digital footprint",
+        "Domain": "Digital Citizenship and Cyber Security",
+        "Status": "WIP"
+      }
+    ],
+    "8": [
+      {
+        "title": "Re-edit your favourite video",
+        "Descriptive Name": "Editing the video with openshot",
+        "Coverage": "* Why video editing\n * Exploring OpenShot\n * Getting started with OpenShot\n * Project: Birthday party invitation",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "How does the Net Works",
+        "Descriptive Name": "Basics of Internet and Networking",
+        "Coverage": "* Computer networks\n * Types of computer networks\n * The Internet\n * Working of websites\n * Network topology",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "Taming the Turtle",
+        "Descriptive Name": "Exploring python libraries",
+        "Coverage": "* Modules in Python\n * Math module\n * Project: Area and Circumference\n * Random module\n * Libraries in Python\n * Turtle Graphics Library",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Nested for a while in a loop",
+        "Descriptive Name": "Making pattens with turtle library",
+        "Coverage": "* If and If-else\n * If-elif-else\n * While and While-else\n * For loop and Nested loops\n * Project 1: Polygon Maker\n * Project 2: Planets around the Sun",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Fun-key events",
+        "Descriptive Name": "Interactive programs using functions & events",
+        "Coverage": "* Functions\n * Creating a function\n * Calling the function\n * Functions with Turtle\n * Events\n * Event-based functions",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Stylish websites, made simple",
+        "Descriptive Name": "Learning HTML &CSS",
+        "Coverage": "* HTML tags\n * HTMLattributes\n * CSS (Inline, Internal, and External)\n * Project: Snowy Owl",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Making of AI",
+        "Descriptive Name": "AI Project Cycle and Ethics",
+        "Coverage": "*AI Project Cycle\n*Stages of AI Project Cycle\n*4Ws Problem Canvas\n*AI Ethics",
+        "Domain": "Artificial Intelligence",
+        "Status": "WIP"
+      },
+      {
+        "title": "Think like a data scientist",
+        "Descriptive Name": "Data science Alogrithms",
+        "Coverage": "* Data Analysis\n * Algorithms\n * Data representation",
+        "Domain": "Data Science",
+        "Status": "WIP"
+      }
+    ]
+  },
+  "SuperCoder 3.0": {
+    "1": [
+      {
+        "title": "Meet My Computer",
+        "Descriptive Name": "Introduction to Computers",
+        "Coverage": "(1)Natural and Man-made things(2)computers(3)Machines(4)Types of computer",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Unboxing Computer",
+        "Descriptive Name": "Understanding Computer Parts",
+        "Coverage": "(1)Computer and its uses(2)Monitor(3)Mouse(4)Computers parts and their functions (5)Keyboard(6)CPU",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Click, Click, Click!",
+        "Descriptive Name": "Introduction to Mouse",
+        "Coverage": "1. WHAT IS A MOUSE?\n2. PARTS OF A MOUSE\n3. THE MOUSE POINTER\n4. LEARNING TO USE THE MOUSE\n5. HOW TO TAKE CARE OF YOUR MOUSE",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Touch to type",
+        "Descriptive Name": "working with the keyboard",
+        "Coverage": "(1)Alphabet Keys and Caps Lock Key(2)Number Keys(3)Backspace and spacebar Keys(4)Enter Key",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Paint without Paint",
+        "Descriptive Name": "Basics of Tux Paint",
+        "Coverage": "(1)TUX paint (2)Lines,Shapes,Fill(3)Paint,Erase(4)Project: Draw a  smiley",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Lets Sequence",
+        "Descriptive Name": "Baby steps to programming",
+        "Coverage": "(1)Arranging jumbled steps in order(2)Instructions(3)Sequencing(4)Programs\n5) Project :Guide the Tux",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "Done"
+      },
+      {
+        "title": "Connect and code",
+        "Descriptive Name": "Introduction to Scratch Jr",
+        "Coverage": "(1)Machines (2)Programming (3)Scratch Jr(4)Scratch Jr Interface(5)Project:Greetings!",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "Done"
+      },
+      {
+        "title": "Can Computers Fly?",
+        "Descriptive Name": "Begin with AI",
+        "Coverage": "(1)Machines around us 2) Artificial Intelligence 3) Artificial Intelligence in our daily lives",
+        "Domain": "Artificial Intelligence",
+        "Status": "Done"
+      }
+    ],
+    "2": [
+      {
+        "title": "Know your Computer",
+        "Descriptive Name": "Computer and its  devices",
+        "Coverage": "(1) Computer (2) Types of Computers (3) Input (4) Output (5) Advantages of a Computer (6) Disadvantages of a Computer",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Fastest fingers first",
+        "Descriptive Name": "Special Keys on the Keyboard",
+        "Coverage": "(1) Creating a Text Document (2) Best Typing Practices (3) Functions of Various Keys",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Cut, Copy, Paste",
+        "Descriptive Name": "Mouse actions",
+        "Coverage": "(1) Selecting Text (2) Moving Text Using Cut-Paste (3) Project: My Favorite Food (4) Duplicating Text Using Copy-Paste (5) Reversing the Last Change Using Undo",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Paint Your Thoughts",
+        "Descriptive Name": "Introduction to MS Paint",
+        "Coverage": "(1) Introduction to MS Paint (2) Creating a Drawing in MS Paint (3) Tools of MS Paint (4) Project: Drawing a Birthday Cake",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Word to save",
+        "Descriptive Name": "Introduction to Ms-Word",
+        "Coverage": "(1) Word Processor (2) Interface (3) Entering Text (4) Saving the Document (5) Editing an Existing File (6) Save As (7) Project: Birthday Invitation",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Think Stepwise",
+        "Descriptive Name": "Introduction to Algorithms",
+        "Coverage": "(1) Instructions for Tasks (2) Program (3) Algorithm (4) Project: Encoding Game with Tux",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "Done"
+      },
+      {
+        "title": "Code the blocks!",
+        "Descriptive Name": "Programming with Scratch Jr",
+        "Coverage": "(1) Machines (2) Programming (3) ScratchJr (4) Interface (5) Programming Blocks (6) Project: Many Funny Animals",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "Done"
+      },
+      {
+        "title": "Can Computers Draw?",
+        "Descriptive Name": "Exploring the World of AI",
+        "Coverage": "(1) Artificial Intelligence (AI) (2) Drawing Using AI (3) Project: Drawing a Hat (4) Uses of AI: Virtual Assistants, Image Recognition (5) Machines with AI",
+        "Domain": "Artificial Intelligence",
+        "Status": "Done"
+      }
+    ],
+    "3": [
+      {
+        "title": "From Power On to Play",
+        "Descriptive Name": "Exploring OS",
+        "Coverage": "1)Operating System (OS)\n\n2)Graphical user interface\n\n3)Desktop Environment\n\n4)Basic desktop operations",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Paint your world",
+        "Descriptive Name": "Sketch with Ms-paint",
+        "Coverage": "1)Introduction to MS Paint\n2)MS Paint Tools\n3)Drawing and Editing with MS Paint\n4)Project: Simple Scenery",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Word Power Made Simple",
+        "Descriptive Name": "Working with Ms-word",
+        "Coverage": "1)Creating a document\n2)Formatting text\n3) Spelling & Grammar corrections\n3)Text Spacing\n4) Saving and Printing the document\n5)Project: Teacher's day Invitation",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Network of Networks",
+        "Descriptive Name": "Introduction to Internet",
+        "Coverage": "1)Internet and related terminologies\n\n2)Online safety\n\n3)Advantages and Disadvantages of Internet\n\n4)Responsibilities of a digital citizen",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "ABC of Scratch",
+        "Descriptive Name": "Introduction  to Scratch",
+        "Coverage": "1)Block Coding\n2)Components of Scratch platform\n3)Creating, Saving and sharing the project\n4) Project: Marching Cat",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "Done"
+      },
+      {
+        "title": "Repeat the Loops Forever",
+        "Descriptive Name": "Simple animations Using Loops",
+        "Coverage": "1)Repetitions in real life\n2) Loops in Programming\n3)Repeat block\n4)Forever block\n5)Project: Dance Party",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "Done"
+      },
+      {
+        "title": "Let's Trigger!",
+        "Descriptive Name": "Funny games with events & conditionals",
+        "Coverage": "1)Conditional statements\n\n2)Events\n\n3)If-then and If-then-else\n\n4)Project: Ball Bouncer",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "Done"
+      },
+      {
+        "title": "Can Robots Think?",
+        "Descriptive Name": "Exploring Intelligent Machines",
+        "Coverage": "1)Computing machines\n2)Artificial Intelligence (AI)\n3)Story writing with AI\n4)Machine Learning\n5)Creating images using AI \n6)Stages of AI",
+        "Domain": "Artificial Intelligence",
+        "Status": "Done"
+      },
+      {
+        "title": "Numbers Never Lie!",
+        "Descriptive Name": "first steps to data science",
+        "Coverage": "1)Data and Information\n2)Representation of data\n3)Representing numbers",
+        "Domain": "Data Science",
+        "Status": "Done"
+      },
+      {
+        "title": "First Digital Key",
+        "Descriptive Name": "All About Passwords",
+        "Coverage": "1)Password\n2)Why passwords?\n3)How to Make a Password?\n4)Advanced Technologies for Security",
+        "Domain": "Digital Citizenship and Cyber Security",
+        "Status": "Done"
+      }
+    ],
+    "4": [
+      {
+        "title": "Inside the Brain of A Computer",
+        "Descriptive Name": "Exploring cpu and its parts",
+        "Coverage": "1)IPO Cycle(2)Input devices(3)Process(4)CPU(5)Output devices",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "The Friendly Face of Computers",
+        "Descriptive Name": "Working with OS",
+        "Coverage": "1)Graphical User Interface\n\n2)Taskbar\n\n3)Windows Desktop\n\n4)Shortcut menu",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "WOW with Word",
+        "Descriptive Name": "Advanced features of MS Word",
+        "Coverage": "1) Inserting Objects\n2) Tables in Word\n3)WordArt\n4) Search and Replace\n5)Thesaurus\n6)Project: Happy Independence Day",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "Power Up with PowerPoint",
+        "Descriptive Name": "Basics of PowerPoint",
+        "Coverage": "1)Creating a presentation\n2)Inserting Media and Smartart\n3)Presentation views 4)Adding Theme and Text5)Adding Animation & Transition Effect(6)Project: My role model",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Lucid Loops",
+        "Descriptive Name": "Drawing Shapes and Patterns with Loops",
+        "Coverage": "1)Loops in daily life.\n2)Project 1: Drawing Basic Shapes\n3)Nested loops\n4)Repeat, Forever and Pen blocks\n5)Project 2: Drawing Simple Patterns",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "Done"
+      },
+      {
+        "title": "Creative Conditionals",
+        "Descriptive Name": "Making Decisions with Conditional Logic",
+        "Coverage": "1)Conditionals in real life\n2)If-then & if-then-else conditionals\n3)Project 1: Monkey apple animation\n4)Project 2: Cat mouse chase animation\n5)Repeat Until\n6)Project 3: Dancing name animation",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "Done"
+      },
+      {
+        "title": "The Game for Brains",
+        "Descriptive Name": "Exploring  Kodu",
+        "Coverage": "1)Why We Love Games(2)From Playing to Creating(3)Kodu Game Lab(4)Getting Started with Kodu(5)Project: Eat the Apples",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Can a Robot Pass an Exam?",
+        "Descriptive Name": "Learning domains of AI",
+        "Coverage": "1)Artificial Intelligence and It's Domains\n2)Data Science\n3)Natural Language Processing\n4)Computer Vision\n5)Project: Read my mind",
+        "Domain": "Artificial Intelligence",
+        "Status": "Done"
+      },
+      {
+        "title": "Data Turns into Pictures",
+        "Descriptive Name": "Understanding bar and pie charts",
+        "Coverage": "1)Arrangement of data\n2)Pictograph\n3)Bar graph\n4)Pie chart",
+        "Domain": "Data Science",
+        "Status": "Done"
+      },
+      {
+        "title": "Digital citizenship superhero",
+        "Descriptive Name": "Understanding digital citizenship",
+        "Coverage": "1)Digital citizenship\n2)What to share on the internet?\n3)Digital citizenship superhero\n3)Rights and responsibilities of a digital citizen\n4)Cyberbullying",
+        "Domain": "Digital Citizenship and Cyber Security",
+        "Status": "Done"
+      }
+    ],
+    "5": [
+      {
+        "title": "Soul of the Computer",
+        "Descriptive Name": "All about softwares",
+        "Coverage": "1)Types of Softwares\n2)System Software\n3) Application Software\n4)Working with Operating System",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Super Slides Made Easy",
+        "Descriptive Name": "Presentation Software - Special Effects",
+        "Coverage": "1)Design Templates\n2) Font Styling,Formatting and Alignment\n3) Inserting WordArt and Objects\n4) Inserting List\n5) Project: My Favourite Super Hero",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "Enter and Excel",
+        "Descriptive Name": "Working with MS-Excel",
+        "Coverage": "1)Creating a spreadsheet\n\n2)Formatting the data\n\n3)Visualizing the data\n4)Entering text, numbers & formulas\n5)Sorting the data  (6)Project: Digital Marksheets",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Who owns the internet",
+        "Descriptive Name": "working of internet",
+        "Coverage": "1)Network and its advantages\n2)History of the internet\n3)Types of networks\n4)Working on the internet",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "Variable World",
+        "Descriptive Name": "Understanding variables in coding",
+        "Coverage": "1)Variables & Constants\n2)Variable initialization and updation\n3) Arithmetic Operators \n4)Creating new variables\n5)Project 1: Balloon Popper Game\n6)Project 2: Mathematical Monkey",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Curious Conditionals",
+        "Descriptive Name": "Deep diving to conditionals",
+        "Coverage": "1)Conditional statements\n2)Project 1: Hungry Parrot\n3)Project 2: Lucky Guess\n4)If-then & If-then-else conditional\n5)Relational operators\n6)Repeat Until",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "From Player to Creator",
+        "Descriptive Name": "Game creation with Kodu",
+        "Coverage": "1)Applications(2)Kodu Game Lab(3)Getting Started with Kodu(5)Project: APPLES AND BALLS",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Teach a Machine",
+        "Descriptive Name": "Introduction to Machine learning",
+        "Coverage": "1)Machine Learning (ML)\n2)Steps to make a ML model\n3)Google Teachable Machine\n4)Project: Emotional Cat",
+        "Domain": "Artificial Intelligence",
+        "Status": "WIP"
+      }
+    ],
+    "6": [
+      {
+        "title": "Excel to Excel",
+        "Descriptive Name": "Advanced features of MS Excel",
+        "Coverage": "1)Select, copy, & move data\n2)Change cell dimensions (3)Inserting rows & columns\n4)Formatting, autofill & formulas (5)Charts & graphs\n6)Project: Smart school elections",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "Beyond the Reality",
+        "Descriptive Name": "Introduction to AR and VR",
+        "Coverage": "1)Immersive Technology\n2)Augmented Reality (AR)\n3)Virtual Reality (VR)(4)Mixed Reality\n(5)Metaverse",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "Think Like coders",
+        "Descriptive Name": "Algorithms  and flowcharts",
+        "Coverage": "1)Introduction to programming\n2)Algorithms and algorithmic thinking\n3)Pseudocode & Flowcharts\n4)Project 1: How to make a cup of coffee\n5)Project 2: Is it a leap year\n6)Block coding with MakeCode",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Make code,with Makecode",
+        "Descriptive Name": "Programming with Makecode",
+        "Coverage": "1)Print command\n2)Project 1: Hello World!\n3)Loops\n4)Project 2: Music Player\n5)Variables, Conditionals, and Operators\n6)Project 3: Addition of numbers\n7)Project 4: Dynamic background\n8)Project 5: The remainder problem",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Meet the python",
+        "Descriptive Name": "Introduction to python",
+        "Coverage": "1)Introduction to Python\n2)Getting started with Python\n3)Print\n4)Variables\n5)Data types",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Simple App,Great Impact",
+        "Descriptive Name": "Begin with app development",
+        "Coverage": "1)Apps in daily life\n2)Creating apps with MIT app inventor\n3)Exploring the interface\n4)Project 1: Alphabets\n5)Project 2: Animal sounds\n6)Types of apps",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "From a Blank page, to a web page!",
+        "Descriptive Name": "Introduction to HTML",
+        "Coverage": "1)Introduction to HTML\n2)HTML tags\n3)Project: My Bio\n4)Types of tags",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Can computers see?",
+        "Descriptive Name": "Exploring computer vision",
+        "Coverage": "1)Computer vision (CV)\n2)Tasks of Computer Vision\n3)Understanding images\n4)Applications of Computer Vision",
+        "Domain": "Artificial Intelligence",
+        "Status": "WIP"
+      },
+      {
+        "title": "From data to Wisdom",
+        "Descriptive Name": "Working with data",
+        "Coverage": "1)Data\n2)Data vs Information\n3)DIKW model\n4)Influence of data in our lives",
+        "Domain": "Data Science",
+        "Status": "WIP"
+      },
+      {
+        "title": "Beware of Black- Hats",
+        "Descriptive Name": "Understanding digital safety",
+        "Coverage": "1)Identity theft\n2)Password theft\n3)Phishing\n4)Malware attack\n5)Ransomware attack\n6)Preventing cyber attacks",
+        "Domain": "Digital Citizenship and Cyber Security",
+        "Status": "WIP"
+      }
+    ],
+    "7": [
+      {
+        "title": "Create with krita",
+        "Descriptive Name": "Simple sketch using krita",
+        "Coverage": "* Digital painting\n * Getting started with Krita\n * Types of layers\n * Toolbox\n * Brushes, Presets and Stamps\n * Project: Starry Night",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "The language of the universe",
+        "Descriptive Name": "Learning number system",
+        "Coverage": "* Why numbers?\n * Numeral system\n * Decimal system\n * Binary system\n * Octal system\n * Hexadecimal system",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "Hatching the python",
+        "Descriptive Name": "Basics of python",
+        "Coverage": "Getting started with Python\n * Print command\n * Interactive mode and Script mode\n * Commenting in Python",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Very able variables",
+        "Descriptive Name": "Understanding variables in python",
+        "Coverage": "Variables and Constants\n * Variables in Python\n * Creating variables\n * Data types\n * Operators\n * Project: Result Generator",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "If you think For a While",
+        "Descriptive Name": "Loops and conditionals in python",
+        "Coverage": "* Conditional statements\n * If and If-else statements\n * Loops\n * For and While loops\n * Project 1: Multiplication table\n * Project 2: Guess who am I?",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Mighty Apps with MIT App Inventor",
+        "Descriptive Name": "Creating simple apps",
+        "Coverage": "* Components and types of apps\n * Creation of an app\n * MIT App Inventor\n * Exploring MIT App Inventor\n * Project 1: Grow and Shrink\n * Project 2: Flowers",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Make a Wiki",
+        "Descriptive Name": "Understanding HTML",
+        "Coverage": "* Web Pages and Websites\n * HTML Tags\n * HTML Attributes\n * Project: MS Dhoni",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Power of AI",
+        "Descriptive Name": "Deep dive into AI",
+        "Coverage": "* Artificial Intelligence (AI)\n * Achieving AI: ML & DL\n * Data science\n * Natural Language Processing\n * Computer Vision\n * AI for SDGs",
+        "Domain": "Artificial Intelligence",
+        "Status": "WIP"
+      },
+      {
+        "title": "Small steps to big data",
+        "Descriptive Name": "Introduction to the big data",
+        "Coverage": "* Using data in real life\n * Data science\n * Types of data and data collection\n * Big Data and its characteristics (5V)\n * Applications of Big Data",
+        "Domain": "Data Science",
+        "Status": "WIP"
+      },
+      {
+        "title": "Creating a positive Digital Footprint",
+        "Descriptive Name": "Responsible Online Behaviour",
+        "Coverage": "* Your online identity\n * Going anonymous\n * Digital footprint\n * Advantages of positive digital footprint",
+        "Domain": "Digital Citizenship and Cyber Security",
+        "Status": "WIP"
+      }
+    ],
+    "8": [
+      {
+        "title": "Re-edit your favourite video",
+        "Descriptive Name": "Editing the video with openshot",
+        "Coverage": "* Why video editing\n * Exploring OpenShot\n * Getting started with OpenShot\n * Project: Birthday party invitation",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "How does the Net Works",
+        "Descriptive Name": "Basics of Internet and Networking",
+        "Coverage": "* Computer networks\n * Types of computer networks\n * The Internet\n * Working of websites\n * Network topology",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "Taming the Turtle",
+        "Descriptive Name": "Exploring python libraries",
+        "Coverage": "* Modules in Python\n * Math module\n * Project: Area and Circumference\n * Random module\n * Libraries in Python\n * Turtle Graphics Library",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Nested for a while in a loop",
+        "Descriptive Name": "Making patterns with turtle library",
+        "Coverage": "* If and If-else\n * If-elif-else\n * While and While-else\n * For loop and Nested loops\n * Project 1: Polygon Maker\n * Project 2: Planets around the Sun",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Fun-key events",
+        "Descriptive Name": "interactive programs using functions & events",
+        "Coverage": "* Functions\n * Creating a function\n * Calling the function\n * Functions with Turtle\n * Events\n * Event-based functions",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Stylish websites, made simple",
+        "Descriptive Name": "Learning HTML & CSS",
+        "Coverage": "* HTML tags\n * HTMLattributes\n * CSS (Inline, Internal, and External)\n * Project: Snowy Owl",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Making of AI",
+        "Descriptive Name": "AI Project Cycle and Ethics",
+        "Coverage": "AI Project Cycle\nStages of AI Project Cycle\n4Ws Problem Canvas\nAI Ethics",
+        "Domain": "Artificial Intelligence",
+        "Status": "WIP"
+      },
+      {
+        "title": "Listen to what data says",
+        "Descriptive Name": "Exploring types of data",
+        "Coverage": "* Data\n * Data collection: Primary & Secondary sources\n * Quantitative and Qualitative data\n * Discrete and Continuous data\n * Numerical and Categorical variables",
+        "Domain": "Data Science",
+        "Status": "WIP"
+      },
+      {
+        "title": "Think like a data scientist",
+        "Descriptive Name": "Data science Algorithms",
+        "Coverage": "* Data Analysis\n * Algorithms\n * Data representation",
+        "Domain": "Data Science",
+        "Status": "WIP"
+      },
+      {
+        "title": "Talking to Data",
+        "Descriptive Name": "Introduction to DBMS and SQL",
+        "Coverage": "Data and Information\nWhat is Database?\nDBMS\nSQL",
+        "Domain": "Data Science",
+        "Status": "nan"
+      }
+    ]
+  },
+  "SmartCoder 3.0": {
+    "1": [
+      {
+        "title": "Unboxing Computer",
+        "Descriptive Name": "Understanding Computer Parts",
+        "Coverage": "(1)Computer and its uses(2)Monitor(3)Mouse(4)Computers parts and their functions (5)Keyboard(6)CPU",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Click, Click, Click!",
+        "Descriptive Name": "Introduction to Mouse",
+        "Coverage": "1. WHAT IS A MOUSE?\n2. PARTS OF A MOUSE\n3. THE MOUSE POINTER\n4. LEARNING TO USE THE MOUSE\n5. HOW TO TAKE CARE OF YOUR MOUSE",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Touch to type",
+        "Descriptive Name": "working with the keyboard",
+        "Coverage": "(1)Alphabet Keys and Caps Lock Key(2)Number Keys(3)Backspace and spacebar Keys(4)Enter Key",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Paint without Paint",
+        "Descriptive Name": "Basics of Tux Paint",
+        "Coverage": "(1)TUX paint (2)Lines,Shapes,Fill(3)Paint,Erase(4)Project: Draw a  smiley",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Lets Sequence",
+        "Descriptive Name": "Baby steps to programming",
+        "Coverage": "(1)Arranging jumbled steps in order(2)Instructions(3)Sequencing(4)Programs\n5) Project :Guide the Tux",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "Done"
+      },
+      {
+        "title": "Connect and code",
+        "Descriptive Name": "Introduction to Scratch Jr",
+        "Coverage": "(1)Machines (2)Programming (3)Scratch Jr(4)Scratch Jr Interface(5)Project:Greetings!",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "Done"
+      },
+      {
+        "title": "Can Computers Fly?",
+        "Descriptive Name": "Begin with AI",
+        "Coverage": "(1)Machines around us 2) Artificial Intelligence 3) Artificial Intelligence in our daily lives",
+        "Domain": "Artificial Intelligence",
+        "Status": "Done"
+      },
+      {
+        "title": "HELLO ROBOT",
+        "Descriptive Name": "Introduction to Robots",
+        "Coverage": "What is a Robot\nRobots Are Non-Living Things\nRobots in Our Daily Life\nProject - Build Your First Robot Car",
+        "Domain": "ROBOTICS",
+        "Status": "nan"
+      }
+    ],
+    "2": [
+      {
+        "title": "Fastest fingers first",
+        "Descriptive Name": "Special Keys on the Keyboard",
+        "Coverage": "(1) Creating a Text Document (2) Best Typing Practices (3) Functions of Various Keys",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Cut, Copy, Paste",
+        "Descriptive Name": "Mouse actions",
+        "Coverage": "(1) Selecting Text (2) Moving Text Using Cut-Paste (3) Project: My Favorite Food (4) Duplicating Text Using Copy-Paste (5) Reversing the Last Change Using Undo",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Paint Your Thoughts",
+        "Descriptive Name": "Introduction to MS Paint",
+        "Coverage": "(1) Introduction to MS Paint (2) Creating a Drawing in MS Paint (3) Tools of MS Paint (4) Project: Drawing a Birthday Cake",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Word to save",
+        "Descriptive Name": "Introduction to Ms-Word",
+        "Coverage": "(1) Word Processor (2) Interface (3) Entering Text (4) Saving the Document (5) Editing an Existing File (6) Save As (7) Project: Birthday Invitation",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Think Stepwise",
+        "Descriptive Name": "Introduction to Algorithms",
+        "Coverage": "(1) Instructions for Tasks (2) Program (3) Algorithm (4) Project: Encoding Game with Tux",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "Done"
+      },
+      {
+        "title": "Code the blocks!",
+        "Descriptive Name": "Programming with Scratch Jr",
+        "Coverage": "(1) Machines (2) Programming (3) ScratchJr (4) Interface (5) Programming Blocks (6) Project: Many Funny Animals",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "Done"
+      },
+      {
+        "title": "Can Computers Draw?",
+        "Descriptive Name": "Exploring the World of AI",
+        "Coverage": "(1) Artificial Intelligence (AI) (2) Drawing Using AI (3) Project: Drawing a Hat (4) Uses of AI: Virtual Assistants, Image Recognition (5) Machines with AI",
+        "Domain": "Artificial Intelligence",
+        "Status": "Done"
+      },
+      {
+        "title": "MR. ROBO, FROM HEAD TO TOE!",
+        "Descriptive Name": "Parts and Working of Robots",
+        "Coverage": "Robots in TV and Movies\n\nRobots in Real Life\nBody Parts of Robots\nHow robots work\n\nActivity: Build a Walking Robot",
+        "Domain": "ROBOTICS",
+        "Status": "nan"
+      }
+    ],
+    "3": [
+      {
+        "title": "From Power On to Play",
+        "Descriptive Name": "Exploring OS",
+        "Coverage": "1)Operating System (OS)\n\n2)Graphical user interface\n\n3)Desktop Environment\n\n4)Basic desktop operations",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Paint your world",
+        "Descriptive Name": "Sketch with Ms-paint",
+        "Coverage": "1)Introduction to MS Paint\n2)MS Paint Tools\n3)Drawing and Editing with MS Paint\n4)Project: Simple Scenery",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Word Power Made Simple",
+        "Descriptive Name": "Working with Ms-word",
+        "Coverage": "1)Creating a document\n2)Formatting text\n3) Spelling & Grammar corrections\n3)Text Spacing\n4) Saving and Printing the document\n5)Project: Teacher's day Invitation",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Network of Networks",
+        "Descriptive Name": "Introduction to Internet",
+        "Coverage": "1)Internet and related terminologies\n\n2)Online safety\n\n3)Advantages and Disadvantages of Internet\n\n4)Responsibilities of a digital citizen",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "ABC of Scratch",
+        "Descriptive Name": "Introduction  to Scratch",
+        "Coverage": "1)Block Coding\n2)Components of Scratch platform\n3)Creating, Saving and sharing the project\n4) Project: Marching Cat",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "Done"
+      },
+      {
+        "title": "Repeat the Loops Forever",
+        "Descriptive Name": "Simple animations Using Loops",
+        "Coverage": "1)Repetitions in real life\n2) Loops in Programming\n3)Repeat block\n4)Forever block\n5)Project: Dance Party",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "Done"
+      },
+      {
+        "title": "Let's Trigger!",
+        "Descriptive Name": "Funny games with events & conditionals",
+        "Coverage": "1)Conditional statements\n\n2)Events\n\n3)If-then and If-then-else\n\n4)Project: Ball Bouncer",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "Done"
+      },
+      {
+        "title": "Can Robots Think?",
+        "Descriptive Name": "Exploring Intelligent Machines",
+        "Coverage": "1)Computing machines\n2)Artificial Intelligence (AI)\n3)Story writing with AI\n4)Machine Learning\n5)Creating images using AI \n6)Stages of AI",
+        "Domain": "Artificial Intelligence",
+        "Status": "Done"
+      },
+      {
+        "title": "Numbers Never Lie!",
+        "Descriptive Name": "first steps to data science",
+        "Coverage": "1)Data and Information\n2)Representation of data\n3)Representing numbers",
+        "Domain": "Data Science",
+        "Status": "Done"
+      },
+      {
+        "title": "Robots on the Move",
+        "Descriptive Name": "Understanding Movement of Robot",
+        "Coverage": "Machines vs Robots\nSensors, Controller and Actuators\nPrograms & Algorithms\nMovements in Robots\nTypes of Motors\nBasics of electric circuit\nProject 1: Blind Bug\nProject 2: Propeller Car\nProject 3: Reptile Robot",
+        "Domain": "ROBOTICS",
+        "Status": "nan"
+      }
+    ],
+    "4": [
+      {
+        "title": "Inside the Brain of A Computer",
+        "Descriptive Name": "Exploring cpu and its parts",
+        "Coverage": "1)IPO Cycle(2)Input devices(3)Process(4)CPU(5)Output devices",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "The Friendly Face of Computers",
+        "Descriptive Name": "Working with OS",
+        "Coverage": "1)Graphical User Interface\n\n2)Taskbar\n\n3)Windows Desktop\n\n4)Shortcut menu",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "WOW with Word",
+        "Descriptive Name": "Advanced features of MS Word",
+        "Coverage": "1) Inserting Objects\n2) Tables in Word\n3)WordArt\n4) Search and Replace\n5)Thesaurus\n6)Project: Happy Independence Day",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "Power Up with PowerPoint",
+        "Descriptive Name": "Basics of PowerPoint",
+        "Coverage": "1)Creating a presentation\n2)Inserting Media and Smartart\n3)Presentation views 4)Adding Theme and Text5)Adding Animation & Transition Effect(6)Project: My role model",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Lucid Loops",
+        "Descriptive Name": "Drawing Shapes and Patterns with Loops",
+        "Coverage": "1)Loops in daily life.\n2)Project 1: Drawing Basic Shapes\n3)Nested loops\n4)Repeat, Forever and Pen blocks\n5)Project 2: Drawing Simple Patterns",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "Done"
+      },
+      {
+        "title": "Creative Conditionals",
+        "Descriptive Name": "Making Decisions with Conditional Logic",
+        "Coverage": "1)Conditionals in real life\n2)If-then & if-then-else conditionals\n3)Project 1: Monkey apple animation\n4)Project 2: Cat mouse chase animation\n5)Repeat Until\n6)Project 3: Dancing name animation",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "Done"
+      },
+      {
+        "title": "The Game for Brains",
+        "Descriptive Name": "Exploring  Kodu",
+        "Coverage": "1)Why We Love Games(2)From Playing to Creating(3)Kodu Game Lab(4)Getting Started with Kodu(5)Project: Eat the Apples",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Can a Robot Pass an Exam?",
+        "Descriptive Name": "Learning domains of AI",
+        "Coverage": "1)Artificial Intelligence and It's Domains\n2)Data Science\n3)Natural Language Processing\n4)Computer Vision\n5)Project: Read my mind",
+        "Domain": "Artificial Intelligence",
+        "Status": "Done"
+      },
+      {
+        "title": "Data Turns into Pictures",
+        "Descriptive Name": "Understanding bar and pie charts",
+        "Coverage": "1)Arrangement of data\n2)Pictograph\n3)Bar graph\n4)Pie chart",
+        "Domain": "Data Science",
+        "Status": "Done"
+      },
+      {
+        "title": "SUPERSENSES OF ROBOTS",
+        "Descriptive Name": "Exploring Sensors: Eyes, Ears, and More",
+        "Coverage": "Robot Senses \nTypes of Sensors \nSuperhuman Sensors \nProject 1:Circuit Building\nProject 2: Anti-Theft IR Alarm",
+        "Domain": "ROBOTICS",
+        "Status": "nan"
+      },
+      {
+        "title": "BRIDGE IT",
+        "Descriptive Name": "Introduction to Programming and Scratch",
+        "Coverage": "nan",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "nan"
+      }
+    ],
+    "5": [
+      {
+        "title": "Soul of the Computer",
+        "Descriptive Name": "All about softwares",
+        "Coverage": "1)Types of Softwares\n2)System Software\n3) Application Software\n4)Working with Operating System",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Super Slides Made Easy",
+        "Descriptive Name": "Presentation Software - Special Effects",
+        "Coverage": "1)Design Templates\n2) Font Styling,Formatting and Alignment\n3) Inserting WordArt and Objects\n4) Inserting List\n5) Project: My Favourite Super Hero",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "Enter and Excel",
+        "Descriptive Name": "Working with MS-Excel",
+        "Coverage": "1)Creating a spreadsheet\n\n2)Formatting the data\n\n3)Visualizing the data\n4)Entering text, numbers & formulas\n5)Sorting the data  (6)Project: Digital Marksheets",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Who owns the internet",
+        "Descriptive Name": "working of internet",
+        "Coverage": "1)Network and its advantages\n2)History of the internet\n3)Types of networks\n4)Working on the internet",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "Variable World",
+        "Descriptive Name": "Understanding variables in coding",
+        "Coverage": "1)Variables & Constants\n2)Variable initialization and updation\n3) Arithmetic Operators \n4)Creating new variables\n5)Project 1: Balloon Popper Game\n6)Project 2: Mathematical Monkey",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Curious Conditionals",
+        "Descriptive Name": "Deep diving to conditionals",
+        "Coverage": "1)Conditional statements\n2)Project 1: Hungry Parrot\n3)Project 2: Lucky Guess\n4)If-then & If-then-else conditional\n5)Relational operators\n6)Repeat Until",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "From Player to Creator",
+        "Descriptive Name": "Game creation with Kodu",
+        "Coverage": "1)Applications(2)Kodu Game Lab(3)Getting Started with Kodu(5)Project: APPLES AND BALLS",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Teach a Machine",
+        "Descriptive Name": "Introduction to Machine learning",
+        "Coverage": "1)Machine Learning (ML)\n2)Steps to make a ML model\n3)Google Teachable Machine\n4)Project: Emotional Cat",
+        "Domain": "Artificial Intelligence",
+        "Status": "WIP"
+      },
+      {
+        "title": "Forecasting with data",
+        "Descriptive Name": "Understanding Data Predictions",
+        "Coverage": "1)Forecasting and its applications in daily life\n2)Importance of data in forecasting\n3)Steps to forecast Data",
+        "Domain": "Data Science",
+        "Status": "WIP"
+      },
+      {
+        "title": "The Language of Robots",
+        "Descriptive Name": "Programming the Robot",
+        "Coverage": "Need for Programs\nAlgorithm vs Program\nSequence and Loops\nVEXcode VR Projects\nProject 1:Traffic Light Simulation",
+        "Domain": "ROBOTICS",
+        "Status": "nan"
+      }
+    ],
+    "6": [
+      {
+        "title": "Excel to Excel",
+        "Descriptive Name": "Advanced features of MS Excel",
+        "Coverage": "1)Select, copy, & move data\n2)Change cell dimensions (3)Inserting rows & columns\n4)Formatting, autofill & formulas (5)Charts & graphs\n6)Project: Smart school elections",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "Beyond the Reality",
+        "Descriptive Name": "Introduction to AR and VR",
+        "Coverage": "1)Immersive Technology\n2)Augmented Reality (AR)\n3)Virtual Reality (VR)(4)Mixed Reality\n(5)Metaverse",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "Think Like coders",
+        "Descriptive Name": "Algorithms  and flowcharts",
+        "Coverage": "1)Introduction to programming\n2)Algorithms and algorithmic thinking\n3)Pseudocode & Flowcharts\n4)Project 1: How to make a cup of coffee\n5)Project 2: Is it a leap year\n6)Block coding with MakeCode",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Make code,with Makecode",
+        "Descriptive Name": "Programming with Makecode",
+        "Coverage": "1)Print command\n2)Project 1: Hello World!\n3)Loops\n4)Project 2: Music Player\n5)Variables, Conditionals, and Operators\n6)Project 3: Addition of numbers\n7)Project 4: Dynamic background\n8)Project 5: The remainder problem",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Meet the python",
+        "Descriptive Name": "Introduction to python",
+        "Coverage": "1)Introduction to Python\n2)Getting started with Python\n3)Print\n4)Variables\n5)Data types",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Simple App,Great Impact",
+        "Descriptive Name": "Begin with app development",
+        "Coverage": "1)Apps in daily life\n2)Creating apps with MIT app inventor\n3)Exploring the interface\n4)Project 1: Alphabets\n5)Project 2: Animal sounds\n6)Types of apps",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "From a Blank page, to a web page!",
+        "Descriptive Name": "Introduction to HTML",
+        "Coverage": "1)Introduction to HTML\n2)HTML tags\n3)Project: My Bio\n4)Types of tags",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Can computers see?",
+        "Descriptive Name": "Exploring computer vision",
+        "Coverage": "1)Computer vision (CV)\n2)Tasks of Computer Vision\n3)Understanding images\n4)Applications of Computer Vision",
+        "Domain": "Artificial Intelligence",
+        "Status": "WIP"
+      },
+      {
+        "title": "From data to Wisdom",
+        "Descriptive Name": "Working with data",
+        "Coverage": "1)Data\n2)Data vs Information\n3)DIKW model\n4)Influence of data in our lives",
+        "Domain": "Data Science",
+        "Status": "WIP"
+      },
+      {
+        "title": "Robots in Action",
+        "Descriptive Name": "Understanding Robots: Walk, Talk, and Watch",
+        "Coverage": "Robot Actions: Walk, Talk, Watch\n\nTypes of Robots with Examples\n\nAutonomous vs Semi-Autonomous Robots\n\nSense → Decide → Act Cycle\nProject 1: Light Follower Bot",
+        "Domain": "ROBOTICS",
+        "Status": "WIP"
+      }
+    ],
+    "7": [
+      {
+        "title": "Create with krita",
+        "Descriptive Name": "Simple sketch using krita",
+        "Coverage": "* Digital painting\n * Getting started with Krita\n * Types of layers\n * Toolbox\n * Brushes, Presets and Stamps\n * Project: Starry Night",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "The language of the universe",
+        "Descriptive Name": "Learning number system",
+        "Coverage": "* Why numbers?\n * Numeral system\n * Decimal system\n * Binary system\n * Octal system\n * Hexadecimal system",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "Hatching the python",
+        "Descriptive Name": "Basics of python",
+        "Coverage": "Getting started with Python\n * Print command\n * Interactive mode and Script mode\n * Commenting in Python",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Very able variables",
+        "Descriptive Name": "Understanding variables in python",
+        "Coverage": "Variables and Constants\n * Variables in Python\n * Creating variables\n * Data types\n * Operators\n * Project: Result Generator",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "If you think For a While",
+        "Descriptive Name": "Loops and conditionals in python",
+        "Coverage": "* Conditional statements\n * If and If-else statements\n * Loops\n * For and While loops\n * Project 1: Multiplication table\n * Project 2: Guess who am I?",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Mighty Apps with MIT App Inventor",
+        "Descriptive Name": "Creating simple apps",
+        "Coverage": "* Components and types of apps\n * Creation of an app\n * MIT App Inventor\n * Exploring MIT App Inventor\n * Project 1: Grow and Shrink\n * Project 2: Flowers",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Make a Wiki",
+        "Descriptive Name": "Understanding HTML",
+        "Coverage": "* Web Pages and Websites\n * HTML Tags\n * HTML Attributes\n * Project: MS Dhoni",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Power of AI",
+        "Descriptive Name": "Deep dive into AI",
+        "Coverage": "* Artificial Intelligence (AI)\n * Achieving AI: ML & DL\n * Data science\n * Natural Language Processing\n * Computer Vision\n * AI for SDGs",
+        "Domain": "Artificial Intelligence",
+        "Status": "WIP"
+      },
+      {
+        "title": "Small steps to big data",
+        "Descriptive Name": "Introduction to the big data",
+        "Coverage": "* Using data in real life\n * Data science\n * Types of data and data collection\n * Big Data and its characteristics (5V)\n * Applications of Big Data",
+        "Domain": "Data Science",
+        "Status": "WIP"
+      },
+      {
+        "title": "From Spark to Smart",
+        "Descriptive Name": "Introduction to Microcontrollers",
+        "Coverage": "Microcontroller and Parts\n\nCommon Boards: Arduino, ESP32, STM32\n\nCircuit Basics: Series vs Parallel\n\nBreadboard and Tinkercad Circuits\nProject 1: Dancing Servo Motor\nProject 2: Disco Lights Controller",
+        "Domain": "ROBOTICS",
+        "Status": "nan"
+      }
+    ],
+    "8": [
+      {
+        "title": "Re-edit your favourite video",
+        "Descriptive Name": "Editing the video with openshot",
+        "Coverage": "* Why video editing\n * Exploring OpenShot\n * Getting started with OpenShot\n * Project: Birthday party invitation",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "How does the Net Works",
+        "Descriptive Name": "Basics of Internet and Networking",
+        "Coverage": "* Computer networks\n * Types of computer networks\n * The Internet\n * Working of websites\n * Network topology",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "Taming the Turtle",
+        "Descriptive Name": "Exploring python libraries",
+        "Coverage": "* Modules in Python\n * Math module\n * Project: Area and Circumference\n * Random module\n * Libraries in Python\n * Turtle Graphics Library",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Nested for a while in a loop",
+        "Descriptive Name": "Making patterns with turtle library",
+        "Coverage": "* If and If-else\n * If-elif-else\n * While and While-else\n * For loop and Nested loops\n * Project 1: Polygon Maker\n * Project 2: Planets around the Sun",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Fun-key events",
+        "Descriptive Name": "interactive programs using functions & events",
+        "Coverage": "* Functions\n * Creating a function\n * Calling the function\n * Functions with Turtle\n * Events\n * Event-based functions",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Stylish websites, made simple",
+        "Descriptive Name": "Learning HTML & CSS",
+        "Coverage": "* HTML tags\n * HTMLattributes\n * CSS (Inline, Internal, and External)\n * Project: Snowy Owl",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Making of AI",
+        "Descriptive Name": "AI Project Cycle and Ethics",
+        "Coverage": "AI Project Cycle\nStages of AI Project Cycle\n4Ws Problem Canvas\nAI Ethics",
+        "Domain": "Artificial Intelligence",
+        "Status": "WIP"
+      },
+      {
+        "title": "Think like a data scientist",
+        "Descriptive Name": "Data science Algorithms",
+        "Coverage": "* Data Analysis\n * Algorithms\n * Data representation",
+        "Domain": "Data Science",
+        "Status": "WIP"
+      },
+      {
+        "title": "Talking to Data",
+        "Descriptive Name": "Introduction to DBMS and SQL",
+        "Coverage": "Data and Information\nWhat is Database?\nDBMS\nSQL",
+        "Domain": "Data Science",
+        "Status": "nan"
+      },
+      {
+        "title": "Inside a Robot’s Brain",
+        "Descriptive Name": "Reading & Writing a Robot’s Brain",
+        "Coverage": "Arduino Uno Parts and Functions\n\nSensors, Actuators, and Pins\n\nTinkercad Sensor–Actuator Projects\n\nMicrocontroller Brain: Read, Decide, Act\nProject 1: Ultrasonic Detection Alarm",
+        "Domain": "ROBOTICS",
+        "Status": "nan"
+      },
+      {
+        "title": "Bridge It",
+        "Descriptive Name": "Introduction to Python",
+        "Coverage": "nan",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "nan"
+      }
+    ]
+  },
+  "MasterCoder3.0": {
+    "1": [
+      {
+        "title": "Unboxing Computer",
+        "Descriptive Name": "Understanding Computer Parts",
+        "Coverage": "(1)Computer and its uses(2)Monitor(3)Mouse(4)Computers parts and their functions (5)Keyboard(6)CPU",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Click, Click, Click!",
+        "Descriptive Name": "Introduction to Mouse",
+        "Coverage": "1. WHAT IS A MOUSE?\n2. PARTS OF A MOUSE\n3. THE MOUSE POINTER\n4. LEARNING TO USE THE MOUSE\n5. HOW TO TAKE CARE OF YOUR MOUSE",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Touch to type",
+        "Descriptive Name": "working with the keyboard",
+        "Coverage": "(1)Alphabet Keys and Caps Lock Key(2)Number Keys(3)Backspace and spacebar Keys(4)Enter Key",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Paint without Paint",
+        "Descriptive Name": "Basics of Tux Paint",
+        "Coverage": "(1)TUX paint (2)Lines,Shapes,Fill(3)Paint,Erase(4)Project: Draw a  smiley",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Connect and code",
+        "Descriptive Name": "Introduction to Scratch Jr",
+        "Coverage": "(1)Machines (2)Programming (3)Scratch Jr(4)Scratch Jr Interface(5)Project:Greetings!",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "Done"
+      },
+      {
+        "title": "ROUND AND ROUND",
+        "Descriptive Name": "Programming with Loops",
+        "Coverage": "Repetitions in daily life\nInstructions using repeat \nPrograms using loops \nAdvantages of loops",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "nan"
+      },
+      {
+        "title": "Can Computers Fly?",
+        "Descriptive Name": "Begin with AI",
+        "Coverage": "(1)Machines around us 2) Artificial Intelligence 3) Artificial Intelligence in our daily lives",
+        "Domain": "Artificial Intelligence",
+        "Status": "Done"
+      },
+      {
+        "title": "HELLO ROBOT",
+        "Descriptive Name": "Introduction to Robots",
+        "Coverage": "What is a Robot\nRobots Are Non-Living Things\nRobots in Our Daily Life\nProject - Build Your First Robot Car",
+        "Domain": "ROBOTICS",
+        "Status": "nan"
+      }
+    ],
+    "2": [
+      {
+        "title": "Fastest fingers first",
+        "Descriptive Name": "Special Keys on the Keyboard",
+        "Coverage": "(1) Creating a Text Document (2) Best Typing Practices (3) Functions of Various Keys",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Cut, Copy, Paste",
+        "Descriptive Name": "Mouse actions",
+        "Coverage": "(1) Selecting Text (2) Moving Text Using Cut-Paste (3) Project: My Favorite Food (4) Duplicating Text Using Copy-Paste (5) Reversing the Last Change Using Undo",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Paint Your Thoughts",
+        "Descriptive Name": "Introduction to MS Paint",
+        "Coverage": "(1) Introduction to MS Paint (2) Creating a Drawing in MS Paint (3) Tools of MS Paint (4) Project: Drawing a Birthday Cake",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Word to save",
+        "Descriptive Name": "Introduction to Ms-Word",
+        "Coverage": "(1) Word Processor (2) Interface (3) Entering Text (4) Saving the Document (5) Editing an Existing File (6) Save As (7) Project: Birthday Invitation",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Code the blocks!",
+        "Descriptive Name": "Programming with Scratch Jr",
+        "Coverage": "(1) Machines (2) Programming (3) ScratchJr (4) Interface (5) Programming Blocks (6) Project: Many Funny Animals",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "Done"
+      },
+      {
+        "title": "WHAT’S IF?",
+        "Descriptive Name": "Understanding Conditionals",
+        "Coverage": "Conditionals\nConditional with two conditions\nUse of conditionals in programming",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "nan"
+      },
+      {
+        "title": "Can Computers Draw?",
+        "Descriptive Name": "Exploring the World of AI",
+        "Coverage": "(1) Artificial Intelligence (AI) (2) Drawing Using AI (3) Project: Drawing a Hat (4) Uses of AI: Virtual Assistants, Image Recognition (5) Machines with AI",
+        "Domain": "Artificial Intelligence",
+        "Status": "Done"
+      },
+      {
+        "title": "MR. ROBO, FROM HEAD TO TOE!",
+        "Descriptive Name": "Parts and Working of Robots",
+        "Coverage": "Robots in TV and Movies\n\nRobots in Real Life\nBody Parts of Robots\nHow robots work\n\nActivity: Build a Walking Robot",
+        "Domain": "ROBOTICS",
+        "Status": "nan"
+      }
+    ],
+    "3": [
+      {
+        "title": "From Power On to Play",
+        "Descriptive Name": "Exploring OS",
+        "Coverage": "1)Operating System (OS)\n\n2)Graphical user interface\n\n3)Desktop Environment\n\n4)Basic desktop operations",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Paint your world",
+        "Descriptive Name": "Sketch with Ms-paint",
+        "Coverage": "1)Introduction to MS Paint\n2)MS Paint Tools\n3)Drawing and Editing with MS Paint\n4)Project: Simple Scenery",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Word Power Made Simple",
+        "Descriptive Name": "Working with Ms-word",
+        "Coverage": "1)Creating a document\n2)Formatting text\n3) Spelling & Grammar corrections\n3)Text Spacing\n4) Saving and Printing the document\n5)Project: Teacher's day Invitation",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Network of Networks",
+        "Descriptive Name": "Introduction to Internet",
+        "Coverage": "1)Internet and related terminologies\n\n2)Online safety\n\n3)Advantages and Disadvantages of Internet\n\n4)Responsibilities of a digital citizen",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "ABC of Scratch",
+        "Descriptive Name": "Introduction  to Scratch",
+        "Coverage": "1)Block Coding\n2)Components of Scratch platform\n3)Creating, Saving and sharing the project\n4) Project: Marching Cat",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "Done"
+      },
+      {
+        "title": "Repeat the Loops Forever",
+        "Descriptive Name": "Simple animations Using Loops",
+        "Coverage": "1)Repetitions in real life\n2) Loops in Programming\n3)Repeat block\n4)Forever block\n5)Project: Dance Party",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "Done"
+      },
+      {
+        "title": "Let's Trigger!",
+        "Descriptive Name": "Funny games with events & conditionals",
+        "Coverage": "1)Conditional statements\n\n2)Events\n\n3)If-then and If-then-else\n\n4)Project: Ball Bouncer",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "Done"
+      },
+      {
+        "title": "The costliest bug",
+        "Descriptive Name": "Exploring Bugs in a Code",
+        "Coverage": "1)Bugs in acode\n2)Debugging\n3) Systematic procedure to debug \n4)Importance of Debugging",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "nan"
+      },
+      {
+        "title": "Can Robots Think?",
+        "Descriptive Name": "Exploring Intelligent Machines",
+        "Coverage": "1)Computing machines\n2)Artificial Intelligence (AI)\n3)Story writing with AI\n4)Machine Learning\n5)Creating images using AI \n6)Stages of AI",
+        "Domain": "Artificial Intelligence",
+        "Status": "Done"
+      },
+      {
+        "title": "Numbers Never Lie!",
+        "Descriptive Name": "first steps to data science",
+        "Coverage": "1)Data and Information\n2)Representation of data\n3)Representing numbers",
+        "Domain": "Data Science",
+        "Status": "Done"
+      },
+      {
+        "title": "Robots on the Move",
+        "Descriptive Name": "Understanding Movement of Robot",
+        "Coverage": "Machines vs Robots\nSensors, Controller and Actuators\nPrograms & Algorithms\nMovements in Robots\nTypes of Motors\nBasics of electric circuit\nProject 1: Blind Bug\nProject 2: Propeller Car\nProject 3: Reptile Robot",
+        "Domain": "ROBOTICS",
+        "Status": "nan"
+      }
+    ],
+    "4": [
+      {
+        "title": "Inside the Brain of A Computer",
+        "Descriptive Name": "Exploring cpu and its parts",
+        "Coverage": "1)IPO Cycle(2)Input devices(3)Process(4)CPU(5)Output devices",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "The Friendly Face of Computers",
+        "Descriptive Name": "Working with OS",
+        "Coverage": "1)Graphical User Interface\n\n2)Taskbar\n\n3)Windows Desktop\n\n4)Shortcut menu",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "WOW with Word",
+        "Descriptive Name": "Advanced features of MS Word",
+        "Coverage": "1) Inserting Objects\n2) Tables in Word\n3)WordArt\n4) Search and Replace\n5)Thesaurus\n6)Project: Happy Independence Day",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "Power Up with PowerPoint",
+        "Descriptive Name": "Basics of PowerPoint",
+        "Coverage": "1)Creating a presentation\n2)Inserting Media and Smartart\n3)Presentation views 4)Adding Theme and Text5)Adding Animation & Transition Effect(6)Project: My role model",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Lucid Loops",
+        "Descriptive Name": "Drawing Shapes and Patterns with Loops",
+        "Coverage": "1)Loops in daily life.\n2)Project 1: Drawing Basic Shapes\n3)Nested loops\n4)Repeat, Forever and Pen blocks\n5)Project 2: Drawing Simple Patterns",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "Done"
+      },
+      {
+        "title": "Creative Conditionals",
+        "Descriptive Name": "Making Decisions with Conditional Logic",
+        "Coverage": "1)Conditionals in real life\n2)If-then & if-then-else conditionals\n3)Project 1: Monkey apple animation\n4)Project 2: Cat mouse chase animation\n5)Repeat Until\n6)Project 3: Dancing name animation",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "Done"
+      },
+      {
+        "title": "Eventful games with variables",
+        "Descriptive Name": "Creating Games with Events and Variables",
+        "Coverage": "Events \nProject : “Escape From The Cat” Game\nVariables\nProject : “Catch The Snack” Game",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "nan"
+      },
+      {
+        "title": "The Game for Brains",
+        "Descriptive Name": "Exploring  Kodu",
+        "Coverage": "1)Why We Love Games(2)From Playing to Creating(3)Kodu Game Lab(4)Getting Started with Kodu(5)Project: Eat the Apples",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Can a Robot Pass an Exam?",
+        "Descriptive Name": "Learning domains of AI",
+        "Coverage": "1)Artificial Intelligence and It's Domains\n2)Data Science\n3)Natural Language Processing\n4)Computer Vision\n5)Project: Read my mind",
+        "Domain": "Artificial Intelligence",
+        "Status": "Done"
+      },
+      {
+        "title": "Data Turns into Pictures",
+        "Descriptive Name": "Understanding bar and pie charts",
+        "Coverage": "1)Arrangement of data\n2)Pictograph\n3)Bar graph\n4)Pie chart",
+        "Domain": "Data Science",
+        "Status": "Done"
+      },
+      {
+        "title": "SUPERSENSES OF ROBOTS",
+        "Descriptive Name": "Exploring Sensors: Eyes, Ears, and More",
+        "Coverage": "Robot Senses \nTypes of Sensors \nSuperhuman Sensors \nProject 1:Circuit Building\nProject 2: Anti-Theft IR Alarm",
+        "Domain": "ROBOTICS",
+        "Status": "nan"
+      },
+      {
+        "title": "BRIDGE IT",
+        "Descriptive Name": "Introduction to Programming and Scratch",
+        "Coverage": "nan",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "nan"
+      }
+    ],
+    "5": [
+      {
+        "title": "Soul of the Computer",
+        "Descriptive Name": "All about softwares",
+        "Coverage": "1)Types of Softwares\n2)System Software\n3) Application Software\n4)Working with Operating System",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Super Slides Made Easy",
+        "Descriptive Name": "Presentation Software - Special Effects",
+        "Coverage": "1)Design Templates\n2) Font Styling,Formatting and Alignment\n3) Inserting WordArt and Objects\n4) Inserting List\n5) Project: My Favourite Super Hero",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "Enter and Excel",
+        "Descriptive Name": "Working with MS-Excel",
+        "Coverage": "1)Creating a spreadsheet\n\n2)Formatting the data\n\n3)Visualizing the data\n4)Entering text, numbers & formulas\n5)Sorting the data  (6)Project: Digital Marksheets",
+        "Domain": "Digital Literacy",
+        "Status": "Done"
+      },
+      {
+        "title": "Who owns the internet",
+        "Descriptive Name": "working of internet",
+        "Coverage": "1)Network and its advantages\n2)History of the internet\n3)Types of networks\n4)Working on the internet",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "Variable World",
+        "Descriptive Name": "Understanding variables in coding",
+        "Coverage": "1)Variables & Constants\n2)Variable initialization and updation\n3) Arithmetic Operators \n4)Creating new variables\n5)Project 1: Balloon Popper Game\n6)Project 2: Mathematical Monkey",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Curious Conditionals",
+        "Descriptive Name": "Deep diving to conditionals",
+        "Coverage": "1)Conditional statements\n2)Project 1: Hungry Parrot\n3)Project 2: Lucky Guess\n4)If-then & If-then-else conditional\n5)Relational operators\n6)Repeat Until",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Broadcasting by events",
+        "Descriptive Name": "Creating Animations and Games with Broadcasts and Events",
+        "Coverage": "Event Blocks\nBroadcasting\nProject 1: Underwater Capture\nProject 2: Snowfall Animation\nLogical operators\nProject 3 : A Hundred Butterflies",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "nan"
+      },
+      {
+        "title": "From Player to Creator",
+        "Descriptive Name": "Game creation with Kodu",
+        "Coverage": "1)Applications(2)Kodu Game Lab(3)Getting Started with Kodu(5)Project: APPLES AND BALLS",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Teach a Machine",
+        "Descriptive Name": "Introduction to Machine learning",
+        "Coverage": "1)Machine Learning (ML)\n2)Steps to make a ML model\n3)Google Teachable Machine\n4)Project: Emotional Cat",
+        "Domain": "Artificial Intelligence",
+        "Status": "WIP"
+      },
+      {
+        "title": "Forecasting with data",
+        "Descriptive Name": "Understanding Data Predictions",
+        "Coverage": "1)Forecasting and its applications in daily life\n2)Importance of data in forecasting\n3)Steps to forecast Data",
+        "Domain": "Data Science",
+        "Status": "WIP"
+      },
+      {
+        "title": "The Language of Robots",
+        "Descriptive Name": "Programming the Robot",
+        "Coverage": "Need for Programs\nAlgorithm vs Program\nSequence and Loops\nVEXcode VR Projects\nProject 1:Traffic Light Simulation",
+        "Domain": "ROBOTICS",
+        "Status": "nan"
+      }
+    ],
+    "6": [
+      {
+        "title": "Excel to Excel",
+        "Descriptive Name": "Advanced features of MS Excel",
+        "Coverage": "1)Select, copy, & move data\n2)Change cell dimensions (3)Inserting rows & columns\n4)Formatting, autofill & formulas (5)Charts & graphs\n6)Project: Smart school elections",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "Beyond the Reality",
+        "Descriptive Name": "Introduction to AR and VR",
+        "Coverage": "1)Immersive Technology\n2)Augmented Reality (AR)\n3)Virtual Reality (VR)(4)Mixed Reality\n(5)Metaverse",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "Think Like coders",
+        "Descriptive Name": "Algorithms  and flowcharts",
+        "Coverage": "1)Introduction to programming\n2)Algorithms and algorithmic thinking\n3)Pseudocode & Flowcharts\n4)Project 1: How to make a cup of coffee\n5)Project 2: Is it a leap year\n6)Block coding with MakeCode",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Make code,with Makecode",
+        "Descriptive Name": "Programming with Makecode",
+        "Coverage": "1)Print command\n2)Project 1: Hello World!\n3)Loops\n4)Project 2: Music Player\n5)Variables, Conditionals, and Operators\n6)Project 3: Addition of numbers\n7)Project 4: Dynamic background\n8)Project 5: The remainder problem",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Meet the python",
+        "Descriptive Name": "Introduction to python",
+        "Coverage": "1)Introduction to Python\n2)Getting started with Python\n3)Print\n4)Variables\n5)Data types",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Simple App,Great Impact",
+        "Descriptive Name": "Begin with app development",
+        "Coverage": "1)Apps in daily life\n2)Creating apps with MIT app inventor\n3)Exploring the interface\n4)Project 1: Alphabets\n5)Project 2: Animal sounds\n6)Types of apps",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "From a Blank page, to a web page!",
+        "Descriptive Name": "Introduction to HTML",
+        "Coverage": "1)Introduction to HTML\n2)HTML tags\n3)Project: My Bio\n4)Types of tags",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Dream and Design",
+        "Descriptive Name": "Creating Games with Gdevelop",
+        "Coverage": "Introduction to G Develop\nExploring Interface of G Develop\nMaking Simple games with G Develop",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "nan"
+      },
+      {
+        "title": "Can computers see?",
+        "Descriptive Name": "Exploring computer vision",
+        "Coverage": "1)Computer vision (CV)\n2)Tasks of Computer Vision\n3)Understanding images\n4)Applications of Computer Vision",
+        "Domain": "Artificial Intelligence",
+        "Status": "WIP"
+      },
+      {
+        "title": "From data to Wisdom",
+        "Descriptive Name": "Working with data",
+        "Coverage": "1)Data\n2)Data vs Information\n3)DIKW model\n4)Influence of data in our lives",
+        "Domain": "Data Science",
+        "Status": "WIP"
+      },
+      {
+        "title": "Robots in Action",
+        "Descriptive Name": "Understanding Robots: Walk, Talk, and Watch",
+        "Coverage": "Robot Actions: Walk, Talk, Watch\n\nTypes of Robots with Examples\n\nAutonomous vs Semi-Autonomous Robots\n\nSense → Decide → Act Cycle\nProject 1: Light Follower Bot",
+        "Domain": "ROBOTICS",
+        "Status": "WIP"
+      }
+    ],
+    "7": [
+      {
+        "title": "Create with krita",
+        "Descriptive Name": "Simple sketch using krita",
+        "Coverage": "* Digital painting\n * Getting started with Krita\n * Types of layers\n * Toolbox\n * Brushes, Presets and Stamps\n * Project: Starry Night",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "The language of the universe",
+        "Descriptive Name": "Learning number system",
+        "Coverage": "* Why numbers?\n * Numeral system\n * Decimal system\n * Binary system\n * Octal system\n * Hexadecimal system",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "Hatching the python",
+        "Descriptive Name": "Basics of python",
+        "Coverage": "Getting started with Python\n * Print command\n * Interactive mode and Script mode\n * Commenting in Python",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Very able variables",
+        "Descriptive Name": "Understanding variables in python",
+        "Coverage": "Variables and Constants\n * Variables in Python\n * Creating variables\n * Data types\n * Operators\n * Project: Result Generator",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "If you think For a While",
+        "Descriptive Name": "Loops and conditionals in python",
+        "Coverage": "* Conditional statements\n * If and If-else statements\n * Loops\n * For and While loops\n * Project 1: Multiplication table\n * Project 2: Guess who am I?",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Turtling with python",
+        "Descriptive Name": "Functions, Modules, and Libraries in Python",
+        "Coverage": "Functions\nPROJECT1 : ABOUT ME\nMODULES IN PYTHON\nPROJECT 2 : SQUARE AND SQUARE ROOT OF A NUMBER\nPROJECT 3: GUESS THE NUMBER!\nLIBRARIES IN PYTHON",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "nan"
+      },
+      {
+        "title": "Mighty Apps with MIT App Inventor",
+        "Descriptive Name": "Creating simple apps",
+        "Coverage": "* Components and types of apps\n * Creation of an app\n * MIT App Inventor\n * Exploring MIT App Inventor\n * Project 1: Grow and Shrink\n * Project 2: Flowers",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Make a Wiki",
+        "Descriptive Name": "Understanding HTML",
+        "Coverage": "* Webpages and Websites\n * HTML Tags\n * HTML Attributes\n * Project: MS Dhoni",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Power of AI",
+        "Descriptive Name": "Deep dive into AI",
+        "Coverage": "* Artificial Intelligence (AI)\n * Achieving AI: ML & DL\n * Data science\n * Natural Language Processing\n * Computer Vision\n * AI for SDGs",
+        "Domain": "Artificial Intelligence",
+        "Status": "WIP"
+      },
+      {
+        "title": "Small steps to big data",
+        "Descriptive Name": "Introduction to the big data",
+        "Coverage": "* Using data in real life\n * Data science\n * Types of data and data collection\n * Big Data and its characteristics (5V)\n * Applications of Big Data",
+        "Domain": "Data Science",
+        "Status": "WIP"
+      },
+      {
+        "title": "From Spark to Smart",
+        "Descriptive Name": "Introduction to Microcontrollers",
+        "Coverage": "Microcontroller and Parts\n\nCommon Boards: Arduino, ESP32, STM32\n\nCircuit Basics: Series vs Parallel\n\nBreadboard and Tinkercad Circuits\nProject 1: Dancing Servo Motor\nProject 2: Disco Lights Controller",
+        "Domain": "ROBOTICS",
+        "Status": "nan"
+      }
+    ],
+    "8": [
+      {
+        "title": "Re-edit your favourite video",
+        "Descriptive Name": "Editing the video with openshot",
+        "Coverage": "* Why video editing\n * Exploring OpenShot\n * Getting started with OpenShot\n * Project: Birthday party invitation",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "How does the Net Works",
+        "Descriptive Name": "Basics of Internet and Networking",
+        "Coverage": "* Computer networks\n * Types of computer networks\n * The Internet\n * Working of websites\n * Network topology",
+        "Domain": "Digital Literacy",
+        "Status": "WIP"
+      },
+      {
+        "title": "Taming the Turtle",
+        "Descriptive Name": "Exploring python libraries",
+        "Coverage": "* Modules in Python\n * Math module\n * Project: Area and Circumference\n * Random module\n * Libraries in Python\n * Turtle Graphics Library",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Nested for a while in a loop",
+        "Descriptive Name": "Making patterns with turtle library",
+        "Coverage": "* If and If-else\n * If-elif-else\n * While and While-else\n * For loop and Nested loops\n * Project 1: Polygon Maker\n * Project 2: Planets around the Sun",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Fun-key events",
+        "Descriptive Name": "interactive programs using functions & events",
+        "Coverage": "* Functions\n * Creating a function\n * Calling the function\n * Functions with Turtle\n * Events\n * Event-based functions",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Stylish websites, made simple",
+        "Descriptive Name": "Learning HTML &CSS",
+        "Coverage": "* HTML tags\n * HTMLattributes\n * CSS (Inline, Internal, and External)\n * Project: Snowy Owl",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "WIP"
+      },
+      {
+        "title": "Making of AI",
+        "Descriptive Name": "AI Project Cycle and Ethics",
+        "Coverage": "AI Project Cycle\nStages of AI Project Cycle\n4Ws Problem Canvas\nAI Ethics",
+        "Domain": "Artificial Intelligence",
+        "Status": "WIP"
+      },
+      {
+        "title": "Listen to what data says",
+        "Descriptive Name": "Exploring types of data",
+        "Coverage": "* Data\n * Data collection: Primary & Secondary sources\n * Quantitative and Qualitative data\n * Discrete and Continuous data\n * Numerical and Categorical variables",
+        "Domain": "Data Science",
+        "Status": "WIP"
+      },
+      {
+        "title": "Think like a data scientist",
+        "Descriptive Name": "Data science Algorithms",
+        "Coverage": "* Data Analysis\n * Algorithms\n * Data representation",
+        "Domain": "Data Science",
+        "Status": "WIP"
+      },
+      {
+        "title": "Talking to Data",
+        "Descriptive Name": "Introduction to DBMS and SQL",
+        "Coverage": "Data and Information\nWhat is Database?\nDBMS\nSQL",
+        "Domain": "Data Science",
+        "Status": "nan"
+      },
+      {
+        "title": "Inside a Robot’s Brain",
+        "Descriptive Name": "Reading & Writing a Robot’s Brain",
+        "Coverage": "Arduino Uno Parts and Functions\n\nSensors, Actuators, and Pins\n\nTinkercad Sensor–Actuator Projects\n\nMicrocontroller Brain: Read, Decide, Act\nProject 1: Ultrasonic Detection Alarm",
+        "Domain": "ROBOTICS",
+        "Status": "nan"
+      },
+      {
+        "title": "Bridge It",
+        "Descriptive Name": "Introduction to Python",
+        "Coverage": "nan",
+        "Domain": "Programming and Computational Thinking",
+        "Status": "nan"
+      }
+    ]
+  }
+}
