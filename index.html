@@ -33,7 +33,15 @@
     .crumbs button:hover{text-decoration:underline}
     .row{display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:space-between;margin-bottom:12px}
     .search{flex:1;min-width:220px;border:1px solid var(--ring);border-radius:12px;padding:10px 12px}
-    .chapter{border:1px solid var(--ring);border-radius:14px;padding:12px;background:#f9fafb}
+
+    .chapter{border:1px solid var(--ring);border-radius:16px;padding:14px;background:#fff;box-shadow:var(--shadow)}
+    .chapter h3{margin:0 0 6px 0;font-size:16px}
+    .meta{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:8px 0}
+    .tag{display:inline-flex;align-items:center;gap:6px;padding:6px 10px;border-radius:999px;font-weight:700;color:#fff;font-size:12px}
+    .desc{color:var(--muted);font-size:13px}
+    details{margin-top:6px}
+    details summary{cursor:pointer;user-select:none;color:var(--ink);font-weight:600}
+    details p{margin:8px 0 0 0; color:#111}
     .muted{color:var(--muted)}
     .stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin-top:14px}
     .stat{background:#fff;border:1px solid var(--ring);border-radius:16px;padding:14px;text-align:center}
@@ -42,22 +50,22 @@
 
     /* Ring layout styling */
     .ring{position:relative; width:min(640px,90vw); height:min(640px,90vw); margin:12px auto 0;}
-    .ring .centerBadge{position:absolute; left:50%; top:50%; transform:translate(-50%,-50%);} 
-    .node{position:absolute; width:140px; height:140px; display:flex; align-items:center; justify-content:center; text-align:center; cursor:pointer; 
+    .ring .centerBadge{position:absolute; left:50%; top:50%; transform:translate(-50%,-50%);}
+    .node{position:absolute; width:140px; height:140px; display:flex; align-items:center; justify-content:center; text-align:center; cursor:pointer;
       color:#fff; font-weight:800; filter:drop-shadow(0 10px 14px rgba(0,0,0,.12)); transition:transform .15s ease, box-shadow .15s ease, opacity .2s}
     .node:hover{transform:translateY(-3px) scale(1.03)}
     .label{padding:10px}
     /* shapes using clip-path */
-    .shape-circle{clip-path:circle(50% at 50% 50%);} 
-    .shape-hex{clip-path:polygon(25% 6%,75% 6%,100% 50%,75% 94%,25% 94%,0 50%);} 
-    .shape-diamond{clip-path:polygon(50% 0,100% 50%,50% 100%,0 50%);} 
-    .shape-pill{border-radius:28px;} 
-    .shape-sq{border-radius:18px;} 
+    .shape-circle{clip-path:circle(50% at 50% 50%);}
+    .shape-hex{clip-path:polygon(25% 6%,75% 6%,100% 50%,75% 94%,25% 94%,0 50%);}
+    .shape-diamond{clip-path:polygon(50% 0,100% 50%,50% 100%,0 50%);}
+    .shape-pill{border-radius:28px;}
+    .shape-sq{border-radius:18px;}
     /* color helpers */
     .c1{background:var(--c1)} .c2{background:var(--c2)} .c3{background:var(--c3)} .c4{background:var(--c4)} .c5{background:var(--c5)} .c6{background:var(--c6)} .c7{background:var(--c7)} .c8{background:var(--c8)} .c9{background:var(--c9)}
     /* toggle pills */
     .viewToggle{display:inline-flex; gap:6px; background:#fff; border:1px solid var(--ring); border-radius:999px; padding:4px;}
-    .viewToggle button{border:0; background:transparent; padding:6px 10px; border-radius:999px; cursor:pointer; font-weight:600; color:var(--muted)}
+    .viewToggle button{border:0; background:transparent; padding:6px 10px; border-radius:999px; cursor:pointer; font-weight:600; color:#6b7280}
     .viewToggle button.active{background:#111; color:#fff}
   </style>
 </head>
@@ -132,6 +140,33 @@ window.seriesView = new URLSearchParams(location.search).get('view') === 'grid' 
 const el = (sel)=>document.querySelector(sel);
 const content = el('#content');
 const crumbs = el('#crumbs');
+
+// --- domain colors (update labels as needed to match Excel)
+const DOMAIN_COLORS = {
+  'Digital Literacy': '#ef4444',                         // red
+  'Programming and Computational Thinking': '#10b981',   // green
+  'AI': '#3b82f6',                                       // blue
+  'Artificial Intelligence': '#3b82f6',                  // alias
+  'Digital Citizenship': '#8b5cf6',                      // purple
+  'Data Science': '#6b7280',                             // grey
+  'Robotics': '#f59e0b'                                  // yellow
+};
+
+// Normalize a chapter entry to a common object shape
+function normalizeChapter(entry){
+  if(typeof entry === 'string'){
+    return { title: entry, desc: '', coverage: '', domain: '', status: '' };
+  }
+  if(entry && typeof entry === 'object'){
+    const title = entry.title || entry['New Chapter Name'] || entry.name || '';
+    const desc = entry.desc || entry['Descriptive Name'] || entry.subtitle || '';
+    const coverage = entry.coverage || entry['Coverage'] || entry['coverage_text'] || '';
+    const domain = entry.domain || entry['Domain'] || '';
+    const status = entry.status || entry['Status'] || '';
+    return { title, desc, coverage, domain, status };
+  }
+  return { title: String(entry||''), desc:'', coverage:'', domain:'', status:'' };
+}
 
 // --- helpers ---
 function getChapters(series, grade){
@@ -211,7 +246,7 @@ function renderSeries(){
       '    <div class="badge"><div><small>Super Computer Curriculum</small><h2>OPEN CS</h2></div></div>',
       '  </div>'
     ];
-    const n = series.length; const R = 45; // radius percent from center
+    const n = series.length; const R = 45; // radius %
     series.forEach((name, idx)=>{
       const angle = (idx / n) * 2 * Math.PI - Math.PI/2; // start at top
       const x = 50 + (R * Math.cos(angle));
@@ -223,7 +258,7 @@ function renderSeries(){
     html.push('</div>');
     content.innerHTML = html.join('');
   }
-  // one handler supports both ring and grid (looks for [data-series])
+  // one handler for both views, looks for [data-series]
   content.onclick = (e)=>{
     const elTile = e.target.closest('[data-series]');
     if(!elTile) return;
@@ -244,17 +279,32 @@ function renderGrades(){
 }
 
 function renderChapters(){
-  const listAll = getChapters(currentSeries, currentGrade);
-  const list = searchTerm ? listAll.filter(c=>c.toLowerCase().includes(searchTerm.toLowerCase())) : listAll;
+  const raw = getChapters(currentSeries, currentGrade);
+  const listAll = Array.isArray(raw) ? raw.map(normalizeChapter) : [];
+  const list = searchTerm ? listAll.filter(c=> (c.title+c.desc+c.domain).toLowerCase().includes(searchTerm.toLowerCase())) : listAll;
+
   const head = `<div class="row">
       <div style="font-weight:800;font-size:18px">${currentSeries} — Grade ${currentGrade}</div>
       <input class="search" id="search" placeholder="Search chapters..." value="${searchTerm}">
       <button class="btn" id="back">Back to Grades</button>
     </div>`;
-  const grid = list.length
-    ? `<div class="grid series">${list.map((c,i)=>`<div class=\"chapter\"><div class=\"muted\">Chapter ${i+1}</div><div style=\"font-weight:700\">${c}</div></div>`).join('')}</div>`
-    : `<div class="muted">No chapters found.</div>`;
-  content.innerHTML = head + grid;
+
+  const cards = list.length ? list.map((c,i)=>{
+    const color = DOMAIN_COLORS[c.domain] || '#94a3b8';
+    const domainTag = c.domain ? `<span class="tag" style="background:${color}">${c.domain}</span>` : '';
+    const statusTag = c.status ? `<span class="tag" style="background:#111">${c.status}</span>` : '';
+    const desc = c.desc ? `<div class="desc">${c.desc}</div>` : '';
+    const cov = c.coverage ? `<details><summary>Coverage</summary><p>${c.coverage}</p></details>` : '';
+    return `<div class="chapter">
+      <div class="muted">Chapter ${i+1}</div>
+      <h3>${c.title||'-'}</h3>
+      ${desc}
+      <div class="meta">${domainTag}${statusTag}</div>
+      ${cov}
+    </div>`;
+  }).join('') : `<div class="muted">No chapters found.</div>`;
+
+  content.innerHTML = head + `<div class="grid series">${cards}</div>`;
   el('#back').onclick = ()=>{ level='grade'; render(); };
   el('#search').oninput = (e)=>{ searchTerm = e.target.value; renderChapters(); };
 }
@@ -279,7 +329,7 @@ el('#viewToggle').onclick = (e)=>{
   if(level==='series') renderSeries();
 };
 
-// ===== Import JSON (structure: { "Series": { "1": ["Chapter 1", ...] } }) =====
+// ===== Import JSON (structure: { "Series": { "1": [ "Chapter 1", ... ] } }) =====
 el('#importBtn').onclick = async ()=>{
   const input = document.createElement('input');
   input.type = 'file';
@@ -303,14 +353,14 @@ el('#importBtn').onclick = async ()=>{
 // ===== Auto-load opencs_series_grades_chapters.json if present next to index.html =====
 (async function autoLoad(){
   try{
-    const res = await fetch('opencs_series_grades_chapters.json', { cache: 'no-store' });
+    const res = await fetch('opencs_series_grades_chapters_extended.json', { cache: 'no-store' });
     if(res.ok){
       const json = await res.json();
       if(json && typeof json === 'object'){
         data = json; el('#sourceBadge').innerHTML = 'Data source: <b>opencs_series_grades_chapters.json</b>'; reset();
       }
     }
-  }catch(e){ /* ignore if file missing or file:// */ }
+  }catch(e){ /* ignore if missing/file:// */ }
 })();
 
 // ===== Minimal self-tests (console) =====
@@ -326,19 +376,23 @@ el('#importBtn').onclick = async ()=>{
     const firstG = gKeys[0];
     console.assert(Array.isArray(getChapters(firstS, firstG)), 'getChapters returns an array');
 
-    // Stats test: grade-level selection shows series-only totals
+    // Stats test: grade-level selection shows series totals
     level='grade'; currentSeries = firstS; currentGrade = null; setStats();
     const expectedGrades = Object.keys(data[firstS]).length;
     const expectedChaps = sumChaptersOfSeries(firstS);
-    console.assert(Number(el('#kGrades').textContent) === expectedGrades, 'grade view: grades count should match series grades');
-    console.assert(Number(el('#kChapters').textContent) === expectedChaps, 'grade view: chapters count should match series total chapters');
+    console.assert(Number(el('#kGrades').textContent) === expectedGrades, 'grade view: grades count matches series');
+    console.assert(Number(el('#kChapters').textContent) === expectedChaps, 'grade view: chapters count matches series total');
 
     // Stats test: chapters-level selection shows grade-only chapters
     level='chapters'; currentGrade = Number(firstG) || firstG; setStats();
     const expectedGradeChaps = getChapters(firstS, currentGrade).length;
-    console.assert(Number(el('#kChapters').textContent) === expectedGradeChaps, 'chapters view: chapters count should match selected grade');
+    console.assert(Number(el('#kChapters').textContent) === expectedGradeChaps, 'chapters view: chapters = selected grade');
 
-    // reset state after tests
+    // Extended JSON object mapping
+    const extendedSample = normalizeChapter({ title:'X', domain:'AI', coverage:'y', desc:'z', status:'Done' });
+    console.assert(extendedSample.title==='X' && extendedSample.domain==='AI' && extendedSample.status==='Done', 'normalizeChapter maps fields');
+
+    // Reset after tests
     reset();
     console.log('Self-tests passed.');
     console.groupEnd();
